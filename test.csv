@@ -1,0 +1,1165 @@
+id,name,table_bookings,online_ordering,location,rating,votes,phone,restaurant_type,restaurant_operation,popular_dishes,cuisines_offered,primary_cuisine
+19281,Plan B,No,No,Greenwich,4.2/5,1651.0, 8041609100,Casual Dining,Drinks & nightlife,7.0,4.0,American
+16095,Mom's Kitchen,No,No,East Village,,0.0," 9738732072,  9742716121",Delivery,Delivery,1.0,1.0,American
+42040,Keys Cafe - Keys Hotel,No,No,Chinatown,2.8 /5,161.0,"080 39451000
+ 8884038484",Casual Dining,Dine-out,7.0,3.0,Chinese
+18753,Smally's Resto Cafe,Yes,No,Greenwich,4.0/5,401.0,"080 48149349,  9632015858",Cafe,Dine-out,7.0,5.0,Snacks
+21065,Fabcafe,No,Yes,Chelsea,3.8 /5,11.0, 8050403072,Cafe,Dine-out,1.0,2.0,Snacks
+33333,Big Wong XL,No,Yes,Tribeca,4.5 /5,686.0, 9902667866,Casual Dining,Delivery,7.0,4.0,Chinese
+45948,Bites 2 Binge,Yes,No,Greenwich,3.7 /5,19.0, 9986785586,Casual Dining,Dine-out,1.0,1.0,American
+50500,Burgundy - Royal Orchid Suites,No,Yes,Chinatown,3.9 /5,104.0," 9731079988
+ 9632500104",Casual Dining,Delivery,4.0,1.0,American
+44723,Mainland China,Yes,Yes,Greenwich,4.4 /5,1554.0,"080 25216677
+080 39491234",Casual Dining,Buffet,7.0,1.0,Chinese
+5465,Vietnamese Kitchen,Yes,Yes,Greenwich,4.1/5,523.0,"080 41566008, 080 41566009",Casual Dining,Delivery,7.0,4.0,Chinese
+31764,Vijayalakshmi Veg,Yes,No,Chelsea,,100.0,080 49653105,Quick Bites,Dine-out,4.0,1.0,Mexican
+3986,Parrattha Ssinghh,Yes,No,Staten and Ellis Islands,4.2/5,45.0, 7483073451,Quick Bites,Delivery,4.0,1.0,American
+27754,Johnson Fast Food,Yes,No,Lower Manhattan,3.7/5,67.0,080 26686112,Quick Bites,Delivery,3.0,3.0,Mexican
+49185,Soup'ermanz Kitchen,Yes,No,East Village,4.1 /5,446.0," 7795076877
+ 7259725921",Cafe,Delivery,7.0,3.0,Snacks
+28095,Al Habibi Restaurant,Yes,No,Lower Manhattan,3.5/5,17.0, 9611118091,Quick Bites,Delivery,1.0,2.0,American
+31175,Momo Blues,Yes,No,Tribeca,NEW,0.0, 8296129143,Quick Bites,Dine-out,1.0,4.0,Chinese
+22466,Food Court,Yes,No,Midtown,,0.0, 8884220700,Quick Bites,Delivery,1.0,2.0,American
+9091,Ganesh Restaurant,Yes,No,Tribeca,3.7/5,51.0," 9845177981,  8971812966",Quick Bites,Delivery,1.0,2.0,Chinese
+2368,Burger Times,No,No,Midtown,3.5/5,16.0," 9900114819,  9663766830",Quick Bites,Dine-out,1.0,1.0,Italian
+6833,BITEBOX,Yes,No,Staten and Ellis Islands,4.4/5,150.0,080 49652513,Quick Bites,Delivery,5.0,5.0,American
+29598,Fujian Express,Yes,No,East Village,3.2 /5,16.0,080 43334321,Quick Bites,Delivery,1.0,4.0,Chinese
+50569,Shaadab,Yes,No,Chinatown,,0.0,"080 49542831
+ 7411543032",Takeaway,Delivery,1.0,4.0,American
+22387,Zaitoon Lassi Cafe,Yes,No,Lower Manhattan,3.5/5,5.0, 9947860182,Quick Bites,Delivery,1.0,4.0,Snacks
+2485,1947,No,Yes,Chelsea,4.1/5,2303.0,"080 41261947,  9739989453",Casual Dining,Buffet,7.0,2.0,American
+8490,Dadi's Dum Burger,Yes,Yes,Lower Manhattan,4.1/5,2724.0," 7090999991,  7090599999",Casual Dining,Delivery,7.0,3.0,Italian
+22955,Al Habibi Restaurant,Yes,No,Lower Manhattan,3.5/5,17.0, 9611118091,Quick Bites,Delivery,1.0,2.0,American
+35455,Nandhanus Rasoi,Yes,No,Chelsea,3.4 /5,9.0, 9632490428,Quick Bites,Delivery,1.0,3.0,Chinese
+989,Mahesh Friends Food Center,Yes,No,Lower Manhattan,2.9/5,126.0, 9731081364,Quick Bites,Delivery,1.0,2.0,Chinese
+8873,Sri Srinivas Park Hotel,Yes,No,Lower Manhattan,NEW,0.0, 8095956143,Quick Bites,Delivery,1.0,2.0,American
+45421,Bismillah Ambur Burger,No,No,Greenwich,,0.0, 9880480085,,Delivery,1.0,2.0,Italian
+29320,Bistro Oui,Yes,Yes,Tribeca,4.1 /5,402.0," 9535007412,  9972815434",Cafe,Cafes,7.0,4.0,Snacks
+28952,Dadi's Dum Burger,Yes,Yes,Lower Manhattan,,2727.0," 7090999991,  7090599999",Casual Dining,Dine-out,7.0,3.0,Italian
+1720,Joey's,No,No,Lower Manhattan,3.7/5,43.0, 9900275325,Quick Bites,Delivery,1.0,2.0,Chinese
+4850,Light House Cafe,Yes,No,Staten and Ellis Islands,3.7/5,94.0," 9741033890,  9743686830",Cafe,Dine-out,1.0,5.0,Snacks
+35693,New Friends,Yes,No,Lower Manhattan,3.8 /5,273.0,"080 26784129
+080 26912010",Casual Dining,Delivery,7.0,4.0,American
+23773,Udupi Thaja Thindi,Yes,No,Lower Manhattan,2.9/5,42.0,"080 26684932,  9448180376",Quick Bites,Dine-out,3.0,4.0,American
+28864,Lets cafe,No,No,Tribeca,3.5 /5,6.0, 9573819444,Quick Bites,Dine-out,1.0,2.0,Chinese
+36216,sCoolMeal,No,No,Lower Manhattan,,0.0, 8971958284,Takeaway,Delivery,1.0,4.0,American
+10845,Ambur Hot Dum Burger,No,No,Lower Manhattan,3.5/5,21.0, 9739695758,Quick Bites,Dine-out,1.0,1.0,Italian
+6950,The Early bell,Yes,No,Chinatown,3.9/5,191.0," 9640890447,  8884644321",Quick Bites,Delivery,7.0,2.0,American
+29037,Kakatiya's,Yes,No,East Village,3.1 /5,6.0, 9900026091,Quick Bites,Dine-out,1.0,2.0,Mexican
+10728,Dhe Chef Cafe,No,No,Lower Manhattan,,0.0, 8861676624,Quick Bites,Dine-out,1.0,2.0,American
+40634,Happy Eat,Yes,No,Staten and Ellis Islands,3.3 /5,88.0, 7411069588,Quick Bites,Delivery,1.0,3.0,Italian
+3023,Brews N Bites,Yes,No,Chelsea,2.9/5,62.0," 9886791151,  9886439454",Quick Bites,Delivery,,3.0,Chinese
+7017,Windy- Taste Of Home,Yes,Yes,Chinatown,3.6/5,109.0, 8660884642,Quick Bites,Delivery,3.0,1.0,American
+7696,Bloomsbury's Global Kitchen & Bakehouse,Yes,Yes,Chinatown,4.5/5,733.0,"080 46411455, 080 46411466",Cafe,Desserts,7.0,8.0,American
+27102,Desipun,Yes,Yes,Tribeca,4.2/5,344.0, 9108182190,Casual Dining,Delivery,,1.0,American
+41691,Rawalpindi Express,No,No,Staten and Ellis Islands,3.4 /5,4.0,080 65555568,Quick Bites,Dine-out,1.0,1.0,American
+41976,Dil Punjabi,Yes,No,Staten and Ellis Islands,2.6 /5,159.0, 9886001722,Quick Bites,Dine-out,1.0,1.0,American
+21067,The Caramelts Cafe,No,No,Chelsea,4.1 /5,227.0,080 26544799,Cafe,Dine-out,7.0,4.0,Snacks
+50371,Punjabi by Nature 2.0,Yes,No,Chinatown,4.2 /5,489.0,"080 61224788
+ 7022638801",Casual Dining,Delivery,7.0,1.0,American
+33063,Momo Hut,Yes,No,Tribeca,4.0 /5,685.0," 9901617606,  6360809299",Quick Bites,Delivery,7.0,3.0,Chinese
+8293,Spice Code,No,Yes,Midtown,3.9/5,165.0," 9513699007,  9513699006",Casual Dining,Buffet,6.0,4.0,Mexican
+44771,Grubhouse,Yes,No,Greenwich,4.1 /5,338.0,080 40999721,Casual Dining,Cafes,7.0,2.0,Snacks
+21275,Halli Rotti Manne,No,No,Chelsea,3.4 /5,9.0, 9008829029,Quick Bites,Dine-out,1.0,1.0,Mexican
+1767,Best Burger,No,No,Midtown,,0.0, 8971042098,Quick Bites,Delivery,1.0,3.0,American
+8186,Madurai Canteen,No,No,Chinatown,,," 9611021296,  9886786010",Quick Bites,Dine-out,1.0,2.0,Mexican
+17029,Shanmukha,Yes,No,East Village,4.0/5,988.0,080 49653004,Casual Dining,Dine-out,,4.0,Italian
+42361,Imperial Restaurant,Yes,No,Greenwich,3.9 /5,,"080 69994888
+080 25254888",Casual Dining,Delivery,7.0,4.0,American
+17324,Panchamuki Fastfood,No,No,East Village,3.5/5,12.0, 7795482147,Quick Bites,Dine-out,1.0,2.0,Mexican
+34193,Momo Blues,Yes,No,Tribeca,NEW,0.0, 8296129143,Quick Bites,Dine-out,2.0,,Chinese
+51162,Treat,Yes,No,Chinatown,3.8 /5,63.0, 8971773793,Casual Dining,Dine-out,7.0,2.0,American
+254,Cafe Coffee Day,Yes,No,Chelsea,3.2/5,17.0, 9071381447,Cafe,Delivery,1.0,2.0,Snacks
+35428,RBP Greens Garden,Yes,No,Lower Manhattan,2.7 /5,48.0," 8971411691
+ 9663809382",Casual Dining,Delivery,1.0,2.0,American
+27667,Food And You,No,No,Tribeca,3.8/5,," 9886360205,  7204347392",Quick Bites,Delivery,7.0,2.0,American
+8302,Cafe Fattoush,Yes,No,Lower Manhattan,3.8/5,24.0, 8880786996,Cafe,Cafes,1.0,2.0,Snacks
+10639,Kallummakkaya,Yes,No,Lower Manhattan,NEW,0.0, 9605141138,Quick Bites,Dine-out,1.0,2.0,Mexican
+18677,Bologna,No,Yes,Greenwich,4.5/5,717.0, 8043027392,Casual Dining,Dine-out,7.0,1.0,Italian
+17594,Biggies Burger 'n' More,Yes,No,Greenwich,4.3/5,184.0," 9986769000,  9986123444",Quick Bites,Cafes,7.0,3.0,Snacks
+5487,Shalimar,Yes,No,Greenwich,4.0/5,153.0,080 49652615,Casual Dining,Delivery,5.0,3.0,American
+4948,Float,Yes,Yes,Staten and Ellis Islands,4.4/5,3061.0," 9066887042,  9066887086",Casual Dining,Drinks & nightlife,7.0,2.0,American
+23599,Al-Bek,Yes,No,Chelsea,3.9/5,684.0, 9606030006,Casual Dining,Dine-out,7.0,4.0,American
+20207,Mani's Dum Burger,Yes,No,Tribeca,3.9/5,778.0,"080 43006111,  9606441691",Casual Dining,Delivery,7.0,2.0,Italian
+21561,The Brew - Aurick Boutique Hotel,No,No,Midtown,3.1 /5,16.0,080 49011000,Casual Dining,Dine-out,1.0,,American
+16461,FreshPhulka,Yes,No,East Village,3.8/5,24.0," 7338062773,  9964417512",Quick Bites,Delivery,1.0,1.0,American
+34656,Dum Burger Hub,Yes,No,Lower Manhattan,3.9 /5,66.0,080 49653144,Quick Bites,Dine-out,2.0,1.0,Italian
+18770,Jimi's Beer Cafe,No,Yes,Greenwich,3.9/5,815.0," 8892607344, 080 25203879",Bar,Dine-out,7.0,3.0,American
+18052,Copper Chimney,Yes,Yes,Greenwich,4.1/5,80.0," 8043757714,  8043757715",Casual Dining,Delivery,5.0,2.0,American
+50636,Taas Foods,No,No,Chinatown,,0.0, 9972808227,Quick Bites,Delivery,1.0,3.0,Chinese
+28942,Birinz,Yes,No,East Village,4.3 /5,83.0,080 49653397,Casual Dining,Dine-out,7.0,3.0,Italian
+51689,HQ,No,Yes,Chinatown,4.1 /5,564.0," 9945577195
+ 9886144774",Casual Dining,Pubs and bars,7.0,4.0,American
+45380,New Punjabi Hotel,No,No,Greenwich,3.7 /5,125.0,080 41155177,Quick Bites,Delivery,5.0,2.0,American
+41403,Mainland China,Yes,Yes,Chinatown,4.7 /5,1542.0,080 49652995,Casual Dining,Delivery,7.0,1.0,Chinese
+11287,Turquoise,No,No,Midtown,2.8/5,56.0,080 42456060,Lounge,Dine-out,1.0,1.0,American
+16443,Paratha Plaza,Yes,No,East Village,3.1/5,82.0, 9611637724,Quick Bites,Delivery,3.0,1.0,American
+1785,Dhe Chef Cafe,No,No,Lower Manhattan,,0.0, 8861676624,Quick Bites,Delivery,1.0,2.0,American
+45867,Smally's Resto Cafe,Yes,No,Greenwich,4.1 /5,427.0,"080 48149349
+ 7829066633",Cafe,Dine-out,7.0,5.0,Snacks
+22393,Euki,Yes,Yes,Chelsea,4.1/5,553.0,080 41315550,Casual Dining,Delivery,7.0,2.0,Italian
+26616,Tella Tales,Yes,No,Tribeca,4.2/5,414.0, 8792110657,Cafe,Cafes,7.0,3.0,
+21775,The Yellow Chilli,Yes,Yes,Chelsea,3.8/5,584.0,080 41712345,Casual Dining,Buffet,7.0,3.0,American
+41831,Madurai Sushi Nachos Shop,No,No,Staten and Ellis Islands,3.6 /5,63.0, 9845764014,Quick Bites,Dine-out,2.0,1.0,Mexican
+51069,Biriyani Zone,Yes,No,Chinatown,4.0 /5,1633.0," 9886639782
+ 9886639783",Casual Dining,Dine-out,7.0,4.0,Italian
+9756,Al Habibi Restaurant,Yes,No,Lower Manhattan,,17.0, 9611118091,Quick Bites,Delivery,1.0,2.0,American
+9027,Cafe Medley,Yes,No,Tribeca,4.2/5,1059.0," 8041160865,  9845141475",Cafe,Delivery,7.0,3.0,Snacks
+4025,Aashish Foods,Yes,No,Staten and Ellis Islands,3.8/5,34.0, 8660201520,Quick Bites,Delivery,3.0,1.0,American
+27465,The Rasoiya Street,Yes,Yes,East Village,4.1/5,1326.0," 9663030533,  8078632775",Casual Dining,Delivery,7.0,4.0,American
+11030,Azimmo Treat,Yes,No,East Village,3.8/5,41.0, 8861752567,Casual Dining,Dine-out,1.0,2.0,American
+49208,Wangs Kitchen,Yes,No,East Village,2.4 /5,438.0,080 39253925,Casual Dining,Delivery,7.0,1.0,Chinese
+32489,Darshan Paradise Restaurant,Yes,No,Lower Manhattan,3.6 /5,16.0," 9880414009,  8095414009",Quick Bites,Delivery,1.0,2.0,American
+3702,Royal Burger Center,No,No,Chelsea,NEW,0.0, 8884603812,Quick Bites,Dine-out,1.0,2.0,Italian
+41794,Ashirvad Resturant,No,No,Staten and Ellis Islands,3.2 /5,7.0, 9036799105,Quick Bites,Dine-out,1.0,2.0,American
+7296,Vishwaas Take Away,No,No,Staten and Ellis Islands,3.2/5,7.0," 9740956336,  7760615222",Quick Bites,Delivery,1.0,2.0,American
+16177,Vegetarea,No,No,East Village,,0.0,080 43334333,,Delivery,1.0,1.0,Mexican
+51430,S.M.S.Evening Fast Food,No,No,Chinatown,3.4 /5,10.0, 9448171435,Quick Bites,Dine-out,1.0,2.0,Italian
+45942,Happenwell Cafe Lounge,No,No,Greenwich,3.7 /5,24.0, 8296541227,Quick Bites,Dine-out,1.0,4.0,American
+208,Mystique Palate,Yes,No,Chelsea,4.1/5,337.0," 9663313544,  9916685945",Quick Bites,Delivery,7.0,2.0,Chinese
+31956,Anda Ka Funda,Yes,No,Lower Manhattan,3.2 /5,64.0, 9902666308,Quick Bites,Dine-out,3.0,3.0,American
+8306,Cafe Coffee Day,Yes,No,Lower Manhattan,3.4/5,43.0, 9071381534,Cafe,Cafes,1.0,2.0,Snacks
+50651,Tasty Food,Yes,No,Chinatown,NEW,0.0,080 49652804,Quick Bites,Delivery,1.0,2.0,American
+50793,Ghar ka Khana,No,No,Chinatown,,0.0, 9036665752,Delivery,Delivery,1.0,1.0,American
+2526,36th Cross Coffee Mane,No,No,Chelsea,3.6/5,16.0,080 49653404,Quick Bites,Cafes,1.0,8.0,Mexican
+16908,Kairos,No,No,East Village,3.8/5,63.0,"080 40752007,  8861128718",Cafe,Desserts,2.0,3.0,Snacks
+8058,China On My Plate,Yes,No,Chinatown,3.0/5,17.0, 9886069658,Casual Dining,Dine-out,1.0,1.0,Chinese
+29447,Mahesh Friends Food Center,Yes,No,Lower Manhattan,2.9 /5,136.0, 9731081364,Quick Bites,Delivery,1.0,2.0,Chinese
+2847,Mr. Parathewala,Yes,No,Chelsea,,0.0, 8884135349,Takeaway,Delivery,1.0,1.0,American
+11056,Burgers And More,Yes,No,Tribeca,NEW,0.0, 8861999234,Quick Bites,Dine-out,1.0,5.0,Italian
+50116,Starbucks,No,No,Chinatown,3.9 /5,35.0,,Cafe,Cafes,1.0,2.0,Snacks
+248,Ugadi,Yes,No,Chelsea,2.9/5,177.0, 9742231320,Casual Dining,Delivery,6.0,5.0,American
+8290,Nouvelle Garden,No,No,Midtown,3.7/5,202.0," 9900022134,  9900022136",Casual Dining,Buffet,7.0,3.0,American
+31177,IDC Kitchen,No,No,Tribeca,4.2 /5,52.0, 7022649471,Quick Bites,Dine-out,2.0,1.0,Mexican
+23232,Woody's,Yes,No,Midtown,2.6/5,208.0,"080 26490999, 080 26490888",Casual Dining,Dine-out,7.0,3.0,Chinese
+23775,Healthy Parathawala,Yes,No,Lower Manhattan,NEW,0.0, 8095555240,Quick Bites,Dine-out,1.0,1.0,American
+37149,Hyderabad Bawarchi,No,No,Chelsea,3.9 /5,118.0," 8884979343
+ 9985900859",Casual Dining,Dine-out,6.0,3.0,American
+21158,Lambsters,No,No,Chelsea,3.6 /5,0.0, 9606346344,Casual Dining,Dine-out,1.0,2.0,American
+15835,Kairos,No,No,East Village,3.8/5,63.0,"080 40752007,  8861128718",Cafe,Cafes,2.0,3.0,Snacks
+21382,The Punjabi Rasoi,No,No,Midtown,3.4 /5,0.0,080 42085222,Casual Dining,Dine-out,1.0,1.0,American
+338,The Trundle,Yes,No,Chelsea,3.7/5,133.0, 9986520008,Casual Dining,Delivery,7.0,4.0,Chinese
+20858,Petoo,Yes,No,Chelsea,3.9/5,20.0, 7338312409,Quick Bites,Delivery,1.0,3.0,American
+7928,The Perk,No,Yes,Staten and Ellis Islands,2.7/5,442.0,080 25401352,Casual Dining,Dine-out,7.0,1.0,American
+9242,Sultans of Spice,Yes,Yes,Tribeca,4.5/5,3458.0,080 49652770,Casual Dining,Delivery,7.0,3.0,American
+36783,Fresh Pressery Cafe,Yes,No,Tribeca,4.1 /5,141.0,080 41724989,Cafe,Dine-out,7.0,5.0,Snacks
+37350,Nanu's Shawarma,No,No,Lower Manhattan,,0.0, 9900900292,Quick Bites,,1.0,3.0,Chinese
+8740,Rajesh Restaurant,Yes,Yes,East Village,3.5/5,59.0," 8095457454,  7090207707",Casual Dining,Delivery,,4.0,American
+21528,Dal Pizza,Yes,No,Midtown,3.7 /5,117.0,"080 26493524,  9448235118",Quick Bites,Dine-out,6.0,,American
+20800,Ambur Hot Dum Burger,No,No,Lower Manhattan,3.5/5,21.0, 9739695758,Quick Bites,Delivery,1.0,1.0,Italian
+21700,Sri Nanjundeshwara Canteen,No,No,Midtown,,0.0, 7353977723,Quick Bites,Dine-out,1.0,1.0,
+10727,RK Fast Food,No,No,Lower Manhattan,,0.0, 8919293202,Quick Bites,Dine-out,1.0,2.0,Mexican
+28445,YORK St.,Yes,No,Tribeca,4.4 /5,949.0, 7624945998,Cafe,Dine-out,7.0,3.0,Snacks
+16819,Pazzo,Yes,No,East Village,4.3/5,372.0," 9500026246,  9000166663",Casual Dining,Delivery,7.0,4.0,American
+1721,Sree Krishna Kafe,No,No,Midtown,3.9/5,115.0, 8792556140,Quick Bites,Delivery,7.0,1.0,Mexican
+29479,Aramane Donne Biriyani,Yes,No,Lower Manhattan,3.9 /5,192.0," 7411877401,  7829588445",Quick Bites,Delivery,2.0,2.0,Italian
+41539,Barbecoa,No,No,Staten and Ellis Islands,4.3 /5,1370.0," 9902287520
+ 7022455300",Casual Dining,Dine-out,7.0,5.0,American
+9384,Mini Adiga's,No,No,Lower Manhattan,2.8/5,27.0, 8494911129,Quick Bites,Delivery,1.0,5.0,Mexican
+51219,A Southern Fair,Yes,No,Chinatown,3.0 /5,19.0, 9108539056,Casual Dining,Dine-out,1.0,3.0,Italian
+8509,Jaganath Hotel and Restaurant,Yes,No,Midtown,3.6/5,35.0,080 49652549,Quick Bites,Delivery,1.0,2.0,American
+17978,Bean Flickers,Yes,No,Greenwich,4.3/5,391.0,"080 41209097,  9886367831",Cafe,Delivery,7.0,5.0,Snacks
+17529,Perk - Estd 1986 Delhi,Yes,Yes,Greenwich,4.4/5,1414.0,"080 48536713,  8884498122",Casual Dining,Buffet,7.0,1.0,American
+51125,Hyderabad Biryaani House,Yes,No,Chinatown,3.6 /5,378.0," 7411511194
+ 8050243033",Casual Dining,Dine-out,4.0,3.0,Italian
+3578,36th Cross Coffee Mane,No,No,Chelsea,3.6/5,,080 49653404,Quick Bites,Dine-out,1.0,8.0,Mexican
+10933,Chinita Real Mexican Food,No,No,Tribeca,4.5/5,729.0," 9591038009, 080 43711400",Casual Dining,Dine-out,7.0,1.0,Mexican
+32973,Healthy Parathawala,Yes,No,Lower Manhattan,,0.0, 8095555240,Quick Bites,Delivery,1.0,1.0,American
+41203,China On My Plate,No,No,Chinatown,3.0 /5,17.0, 9886069658,Casual Dining,Delivery,1.0,1.0,Chinese
+3475,The Caramelts Cafe,No,No,Chelsea,4.2/5,223.0,080 26544799,Cafe,Dine-out,7.0,4.0,Snacks
+20375,Chung Wah,Yes,No,Chelsea,3.7/5,329.0," 9108945477,  9108945277",Casual Dining,Delivery,7.0,3.0,Chinese
+7458,Swad-Deshi Restaurant,Yes,No,Staten and Ellis Islands,3.5/5,13.0,080 49653311,Quick Bites,Delivery,1.0,2.0,Mexican
+41789,Aashish Foods,Yes,No,Staten and Ellis Islands,3.8 /5,35.0, 8660201520,Quick Bites,Dine-out,3.0,1.0,American
+30886,Smally's Resto Cafe,Yes,Yes,Tribeca,4.2 /5,1704.0," 7406772442,  7406772332",Cafe,Desserts,7.0,5.0,Snacks
+33341,Market Table,No,Yes,Tribeca,4.5 /5,550.0,080 49652848,,Delivery,7.0,4.0,Snacks
+22483,Vasantha Grand,No,No,Midtown,,0.0, 8050731952,Quick Bites,Delivery,1.0,3.0,Mexican
+45570,Eddy's Cafe,Yes,No,Greenwich,4.1 /5,142.0, 6361292968,Cafe,Desserts,7.0,8.0,Snacks
+27825,Om Made Cafe,No,No,Tribeca,4.1/5,2731.0,"080 43024010, 080 25533369",Cafe,Delivery,7.0,4.0,Snacks
+33673,Fresh Pressery Cafe,Yes,No,Tribeca,4.1 /5,141.0,080 41724989,Cafe,Desserts,7.0,5.0,Snacks
+27925,sCoolMeal,No,No,Lower Manhattan,,0.0, 8971958284,Takeaway,Delivery,,4.0,American
+20699,Beach Hut,No,No,Midtown,3.5/5,134.0," 9740002754,  9739145695",Casual Dining,Delivery,7.0,2.0,American
+8937,Ammus Hot N Cool,Yes,No,Lower Manhattan,3.4/5,84.0, 7829389148,Quick Bites,Delivery,,2.0,American
+2690,Canton,Yes,No,Chelsea,3.6/5,,"080 41410069,  9611320069",Casual Dining,Delivery,7.0,3.0,Chinese
+9215,BTM Ghar ka Khana,No,No,Lower Manhattan,3.7/5,126.0," 9845018962,  9342818067",Quick Bites,Delivery,4.0,1.0,American
+9880,Polamma's Mess,Yes,No,Lower Manhattan,4.2/5,185.0, 9743060222,Mess,Delivery,7.0,3.0,American
+10772,Sri Udupi Johnson,No,No,Lower Manhattan,3.5/5,12.0,080 28913122,Quick Bites,Dine-out,1.0,1.0,Mexican
+16629,Jagan's Hotel,No,No,East Village,,0.0, 9900044424,Quick Bites,Delivery,1.0,2.0,Mexican
+17068,Fine Dine Restaurant,Yes,No,East Village,3.7/5,56.0, 8277290150,Casual Dining,Dine-out,1.0,3.0,American
+35110,David's Kitchen,Yes,No,Lower Manhattan,3.6 /5,14.0," 9035721005
+ 8880550888",Quick Bites,Delivery,1.0,3.0,American
+1753,Petoo,No,No,Midtown,3.7/5,48.0, 9108829009,Casual Dining,Delivery,3.0,3.0,American
+41647,The Mint Resto Bar,No,Yes,Staten and Ellis Islands,2.6 /5,62.0, 7259688882,Casual Dining,Dine-out,1.0,3.0,American
+5436,Popat,Yes,No,Greenwich,3.2/5,41.0, 7015836528,Quick Bites,Delivery,1.0,1.0,American
+10456,Trippy Paradise,Yes,No,Lower Manhattan,2.6/5,60.0," 9886525634,  7406615506",Cafe,Dine-out,1.0,1.0,Snacks
+23317,Dakshin Cafe,Yes,No,Midtown,4.1/5,140.0, 9916806236,Quick Bites,Dine-out,6.0,1.0,Mexican
+19666,Nati Palace,Yes,No,Midtown,3.5/5,11.0, 8618007711,Quick Bites,Delivery,1.0,2.0,Mexican
+34593,Ayush Reddy Tiffins & Fast Food Center,No,No,Lower Manhattan,,0.0, 7893037059,Quick Bites,Dine-out,1.0,3.0,Mexican
+3943,Petoo,Yes,No,East Village,4.1/5,103.0, 7899670003,Quick Bites,Delivery,5.0,3.0,American
+35670,Kopper Kadai,No,No,Tribeca,4.1 /5,1697.0,,Casual Dining,Delivery,7.0,2.0,American
+34425,Hammered,No,No,East Village,4.3 /5,430.0,080 45128705,Bar,Dine-out,7.0,4.0,American
+46115,Jonah's,Yes,Yes,Greenwich,4.1 /5,1857.0," 7349671711
+ 7349671712",Casual Dining,Pubs and bars,7.0,4.0,Italian
+41884,Paakam,No,No,Staten and Ellis Islands,3.7 /5,64.0," 9513071357
+ 9845175617",Quick Bites,Dine-out,1.0,1.0,Mexican
+3483,SlimSins Cafe,No,No,Chelsea,4.1/5,707.0, 9535582766,Cafe,Dine-out,7.0,2.0,Snacks
+50109,Barley & Grapes Cafe,No,No,Chinatown,4.2 /5,842.0,080 67266599,Cafe,Cafes,,3.0,Snacks
+29435,New Mahesh Friends Food Corner,Yes,No,Lower Manhattan,3.2 /5,52.0," 9902419754,  9972913805",Quick Bites,Delivery,1.0,2.0,American
+26874,Hyderabad Biryaani House,Yes,No,Tribeca,4.1/5,1115.0,"080 65754353,  7204344343",Casual Dining,Delivery,7.0,4.0,Italian
+51513,Hyderabadi Dum Burger,No,No,Chinatown,3.7 /5,23.0, 8494915888,Quick Bites,Dine-out,1.0,1.0,Italian
+27431,Noon's,Yes,No,East Village,4.2/5,163.0," 9243405888,  8050160888",Quick Bites,Delivery,3.0,1.0,Italian
+51004,Cafe Coffee Day,No,No,Chinatown,,0.0,,Cafe,Desserts,1.0,2.0,Snacks
+2335,Birthday Buddy,No,No,Midtown,,0.0," 8970900910,  8880007484",Fine Dining,Dine-out,1.0,,American
+1421,Hungry Haters,Yes,No,Midtown,NEW,0.0," 8041214046,  9742363313",Takeaway,Delivery,1.0,2.0,Chinese
+21888,Swad Punjab Da,Yes,No,Lower Manhattan,4.1/5,, 8360151853,Quick Bites,Delivery,5.0,1.0,American
+31893,Adithya Family Restaurant,No,No,Lower Manhattan,3.7 /5,27.0, 9845284661,Quick Bites,Dine-out,1.0,1.0,Mexican
+19432,4th Tea Block,No,No,Chelsea,4.0/5,62.0," 9844033353,  6361276770",Cafe,Cafes,4.0,1.0,Snacks
+19696,RB Food Point,Yes,No,Lower Manhattan,3.7/5,35.0,080 49652100,Quick Bites,Delivery,1.0,2.0,American
+7910,Golkonda Chimney,Yes,Yes,Staten and Ellis Islands,3.7/5,1813.0,"080 42053331, 080 28476532",Casual Dining,Dine-out,7.0,3.0,Italian
+26889,Yummy Pot,Yes,No,East Village,,0.0, 7012891601,Quick Bites,Delivery,1.0,1.0,American
+45192,Zaica Dine & Wine,Yes,Yes,Greenwich,4.0 /5,1021.0," 9731333833
+080 41201745",Casual Dining,Delivery,7.0,1.0,American
+2723,Bakers Town,Yes,No,Lower Manhattan,3.6/5,41.0, 7411103666,Cafe,Delivery,6.0,3.0,Snacks
+32350,Rajdhani Thali Restaurant,Yes,Yes,Greenwich,4.0 /5,1134.0,"080 25212517, 080 25212518",Casual Dining,Delivery,7.0,1.0,American
+26696,A2B - Adyar Ananda Bhavan,Yes,No,East Village,4.1/5,41.0,080 43334321,Takeaway,Delivery,1.0,4.0,Mexican
+51670,Miro Bar - Miraya Hotel & Residences,No,No,Chinatown,3.8 /5,26.0," 7760961733
+ 7760961714",Lounge,Drinks & nightlife,1.0,4.0,American
+1643,Mandi,Yes,Yes,Midtown,3.8/5,560.0,"080 26581432,  9880493432",Casual Dining,Delivery,7.0,1.0,American
+33364,Al Hayath,No,No,Lower Manhattan,3.5 /5,16.0, 9342577103,Quick Bites,Delivery,1.0,2.0,American
+51156,Third Wave Coffee Roasters,No,No,Chinatown,3.8 /5,25.0," 9108175767
+ 8025018073",Cafe,Dine-out,1.0,3.0,Snacks
+32848,Vyanjan,Yes,No,Lower Manhattan,3.9 /5,203.0, 9916937446,,Delivery,7.0,2.0,American
+34623,New Farm Fresh,No,No,Lower Manhattan,3.6 /5,34.0," 8884062000
+ 8884632000",Quick Bites,Dine-out,1.0,2.0,Italian
+51092,Karibu - The Zuri,No,Yes,Chinatown,3.9 /5,268.0,"080 66657272
+ 9135541824",,Dine-out,7.0,2.0,Mexican
+20396,Chung's Chinese Corner,Yes,No,Chelsea,3.9/5,224.0,"080 26644700, 080 41211700",Casual Dining,Delivery,7.0,1.0,Chinese
+43750,Donne Biriyani House,Yes,No,Greenwich,4.0 /5,494.0, 9739406501,Quick Bites,Dine-out,3.0,1.0,Italian
+44942,Mainland China,Yes,Yes,Greenwich,4.4 /5,1554.0,"080 25216677
+080 39491234",Casual Dining,Delivery,7.0,1.0,Chinese
+36017,Aroma Fine Dine,Yes,Yes,East Village,4.0 /5,126.0," 9513888632
+ 9945845334",Casual Dining,Delivery,4.0,4.0,American
+36781,Mani's Dum Burger,Yes,No,Tribeca,3.9 /5,784.0,"080 43006111
+ 9606441691",,Dine-out,7.0,2.0,Italian
+17078,Cafe Coffee Day,No,No,East Village,3.8/5,36.0, 9071387824,Cafe,Dine-out,1.0,1.0,Snacks
+27463,Cafe 221B,Yes,Yes,Lower Manhattan,3.7/5,49.0," 7899022907,  9895765188",Cafe,Delivery,1.0,2.0,Snacks
+45822,Monkey Bar,Yes,No,Greenwich,4.3 /5,3890.0,080 49653039,Pub,Dine-out,7.0,4.0,American
+22778,The Sofraah Kebabs & Kurries - Eden Park Restaurants,No,Yes,Chelsea,3.8/5,176.0,"080 42777333,  8884416393",Casual Dining,Delivery,7.0,2.0,American
+20397,Buff Buffet Buff,Yes,Yes,Tribeca,4.5/5,3151.0,080 45128765,Casual Dining,Delivery,7.0,5.0,American
+16289,OMY Grill,Yes,No,East Village,3.8/5,34.0, 9148848424,Quick Bites,Delivery,1.0,3.0,Italian
+23306,Mavalli Tiffin Room (MTR),No,No,Midtown,4.1/5,873.0,080 26586633,,Dine-out,7.0,1.0,Mexican
+51130,Pindi New York,Yes,No,Chinatown,,0.0,080 71967670,,Dine-out,1.0,4.0,American
+29971,Homifoo,Yes,No,East Village,3.5 /5,11.0, 9206298204,Quick Bites,Delivery,1.0,1.0,American
+49048,Pavan Tiffin Center,Yes,No,East Village,3.3 /5,9.0, 9449346123,Quick Bites,Delivery,1.0,1.0,Mexican
+44729,Southindies,No,Yes,Greenwich,4.0 /5,1231.0,"080 41636363
+080 41636362",Casual Dining,Buffet,7.0,4.0,Mexican
+19423,The Airos,Yes,No,Chelsea,4.1/5,130.0, 7026390001,Cafe,Cafes,7.0,3.0,Snacks
+51114,Shanmukha,Yes,No,Chinatown,3.9 /5,770.0," 8028452727
+ 8639938223",Casual Dining,Dine-out,7.0,4.0,Italian
+29409,Vegetarea,Yes,No,Lower Manhattan,3.8 /5,40.0,080 43334333,Takeaway,Delivery,1.0,1.0,Mexican
+20333,Kababish Restaurant,Yes,No,Lower Manhattan,3.6/5,15.0," 8050732123, 00 805074123",,Delivery,1.0,3.0,American
+8197,NYS Kitchen,No,No,Chinatown,,0.0," 9620097933,  7975558436",Quick Bites,Dine-out,1.0,2.0,American
+1028,Birinz,Yes,No,Lower Manhattan,4.1/5,292.0," 8197022223,  9141111222",Casual Dining,Delivery,7.0,5.0,Italian
+21609,Sri Krishna Johnson,No,No,Lower Manhattan,3.5 /5,12.0,,Quick Bites,Dine-out,1.0,3.0,Mexican
+41284,Ustaad Burger,Yes,No,Staten and Ellis Islands,,0.0," 9108491097
+ 8043705352",Delivery,Delivery,1.0,1.0,Italian
+32631,Perk Bytes,Yes,No,East Village,4.1 /5,134.0,"080 42023320,  9902913320",,Delivery,4.0,1.0,American
+35556,Brew Meister,Yes,Yes,Chelsea,4.1 /5,983.0,080 49652498,Microbrewery,Delivery,7.0,5.0,American
+10715,Sri Krishna Johnson,No,No,Lower Manhattan,3.6/5,11.0,,Quick Bites,Dine-out,1.0,3.0,Mexican
+36024,Big Wong XL,No,Yes,Tribeca,4.5 /5,688.0, 9902667866,Casual Dining,Delivery,7.0,4.0,Chinese
+21691,Padosi Apke Apne,No,No,Midtown,,0.0," 8277759447,  8041204747",Quick Bites,Dine-out,1.0,3.0,Mexican
+44804,Dal Pizza Sabji,Yes,No,Greenwich,4.1 /5,86.0, 9945531454,Quick Bites,Delivery,2.0,1.0,American
+19682,Rustic Stove,Yes,No,Chelsea,3.8/5,579.0,"080 26547755,  9686372742",Casual Dining,Delivery,7.0,4.0,American
+31844,Venessa,No,No,Lower Manhattan,NEW,0.0, 8049750002,Casual Dining,Dine-out,1.0,4.0,American
+10544,Namaste,No,No,Lower Manhattan,NEW,0.0, 7795680954,Quick Bites,Dine-out,1.0,1.0,Mexican
+22812,Desi Cream Junction,Yes,Yes,Chelsea,3.7/5,36.0," 9342943356,  9880988500",Casual Dining,Delivery,1.0,4.0,Chinese
+42803,Kombo King,No,No,Greenwich,,0.0," 9916533331
+ 9916533332",Delivery,Delivery,1.0,2.0,American
+40644,Dil Punjabi,Yes,No,Staten and Ellis Islands,2.6 /5,159.0, 9886001722,Quick Bites,Delivery,1.0,1.0,American
+28957,Azimmo Treat,Yes,No,East Village,3.8 /5,43.0, 8861752567,Casual Dining,Dine-out,,2.0,American
+10924,Beer Adda,Yes,Yes,Tribeca,4.2/5,541.0,080 45128825,Casual Dining,Dine-out,7.0,3.0,American
+10608,Indori Chatorey,Yes,No,Lower Manhattan,2.8/5,138.0, 8050765508,Quick Bites,Dine-out,6.0,2.0,American
+6961,Paradise,Yes,Yes,Chinatown,3.9/5,1644.0," 9513477576,  9886225506",Casual Dining,Delivery,7.0,3.0,Italian
+7485,Punjabi by Nature 2.0,Yes,No,Chinatown,4.2/5,416.0,"080 61224788, 00 07022638801",Casual Dining,Delivery,7.0,1.0,American
+33131,TheRiceBowl.In,Yes,No,Lower Manhattan,3.4 /5,19.0, 8618839928,Takeaway,Delivery,1.0,2.0,Italian
+21859,Al-Bek,Yes,No,Midtown,3.6/5,209.0,080 43334321,Takeaway,Delivery,2.0,6.0,Italian
+15792,SSignature,No,No,East Village,,0.0,"080 25507575, 080 25506676",Casual Dining,Buffet,1.0,3.0,American
+27881,SS Hot Dhum Briyani Point,No,No,Lower Manhattan,,0.0," 7892293634,  8553137892",Quick Bites,Delivery,1.0,3.0,American
+35315,Kitchen24,Yes,No,Lower Manhattan,3.4 /5,15.0, 7337830757,Takeaway,Delivery,1.0,6.0,Italian
+50794,Vikky's Rasoi,No,No,Chinatown,,0.0, 9449658120,Takeaway,Delivery,1.0,1.0,American
+51570,Dharani Andhra Style Hotel,No,No,Chinatown,,0.0, 8105108190,Quick Bites,Dine-out,1.0,1.0,Mexican
+51054,Uno Chicago Bar & Grill,No,Yes,Chinatown,4.2 /5,156.0," 9667540036
+ 7042349751",Bar,Dine-out,7.0,2.0,American
+41184,Golden Rice,Yes,No,Staten and Ellis Islands,4.2 /5,176.0,080 25401352,Casual Dining,Delivery,7.0,4.0,American
+20747,What the Food,No,No,Lower Manhattan,3.6/5,38.0," 9739019190,  9845040679",Quick Bites,Delivery,1.0,3.0,American
+41877,Traffic Restaurant,No,No,Staten and Ellis Islands,,0.0, 9886389441,Quick Bites,Dine-out,1.0,1.0,Mexican
+22023,Rustic Stove,Yes,No,Chelsea,3.8/5,578.0,"080 26547755,  9686372742",Casual Dining,Delivery,7.0,4.0,American
+36207,Ronnie's Kitchen,No,No,Tribeca,3.1 /5,12.0," 9986627088
+ 8147932242",Quick Bites,Delivery,1.0,1.0,Chinese
+51202,Keys Cafe - Keys Hotel,No,No,Chinatown,2.8 /5,161.0,"080 39451000
+ 8884038484",Casual Dining,Dine-out,,3.0,Chinese
+41837,Swad-Deshi Restaurant,Yes,No,Staten and Ellis Islands,3.5 /5,13.0, 8095033335,Quick Bites,Dine-out,1.0,2.0,Mexican
+7337,Cafe Petu,Yes,No,Staten and Ellis Islands,3.8/5,373.0," 8792800195,  7019720382",Quick Bites,Delivery,7.0,2.0,American
+19407,The Onyx - The HHI Select Bengaluru,No,No,Midtown,3.3/5,177.0," 9742281239,  8884404894",Casual Dining,Buffet,7.0,3.0,American
+31961,Deepam Tiffins,No,No,Lower Manhattan,,0.0," 7003050054,  9748122867",Quick Bites,Dine-out,1.0,3.0,Mexican
+16161,Thali15,No,No,East Village,,0.0," 9008064134,  8280327048",Delivery,Delivery,1.0,1.0,American
+20194,SSV Upahar,Yes,No,Chelsea,,0.0, 7022622678,Quick Bites,Delivery,1.0,2.0,Mexican
+20423,The Little Kitchen,No,No,Chelsea,3.8/5,27.0, 7026222245,Quick Bites,Delivery,1.0,2.0,Chinese
+18264,Best Burger,No,No,Greenwich,,0.0, 6362951075,Quick Bites,Delivery,1.0,2.0,Italian
+40834,FIFA Cafe,No,No,Staten and Ellis Islands,3.2 /5,4.0, 8867818803,Cafe,Delivery,1.0,3.0,Snacks
+19353,Jimi's Beer Cafe,No,Yes,Greenwich,3.9/5,815.0," 8892607344, 080 25203879",Bar,Pubs and bars,7.0,3.0,American
+2859,David's Kitchen,Yes,No,Lower Manhattan,3.5/5,12.0," 9035721005,  8880550888",Quick Bites,Delivery,1.0,3.0,American
+32183,Cafe Medley,Yes,No,Tribeca,4.2 /5,1065.0," 8041160865,  9845141475",Cafe,Cafes,7.0,3.0,Snacks
+17353,Village Kitchen,Yes,No,East Village,,0.0, 7022704592,Quick Bites,Dine-out,1.0,3.0,Mexican
+21670,Krishna Food & Chats,No,No,Midtown,,0.0," 9986113300,  9886823636",Quick Bites,Dine-out,1.0,3.0,American
+18663,Rajdhani Thali Restaurant,Yes,Yes,Greenwich,4.0/5,1129.0,"080 25212517, 080 25212518",Casual Dining,Dine-out,,1.0,American
+21780,D View Cafe,Yes,No,Midtown,4.0/5,510.0, 9538943596,Cafe,Cafes,7.0,4.0,Snacks
+34724,The Black Pearl,No,Yes,Tribeca,4.7 /5,10541.0,080 49652452,Casual Dining,Buffet,7.0,3.0,American
+50864,Burger Bar,Yes,No,Chinatown,,0.0, 9916058845,Delivery,Delivery,1.0,1.0,Italian
+50772,Burger Treats,No,No,Chinatown,3.1 /5,11.0, 9845279079,Delivery,Delivery,1.0,1.0,Italian
+12321,Ideal Kitchen,Yes,No,Greenwich,3.5/5,26.0," 9164863549,  8073560905",Quick Bites,Delivery,1.0,4.0,American
+17051,Rajesh Restaurant,Yes,Yes,East Village,3.5/5,59.0," 8095457454,  7090207707",Casual Dining,Dine-out,2.0,4.0,American
+8319,Cafe 221B,Yes,Yes,Lower Manhattan,3.7/5,49.0," 7899022907,  9895765188",Cafe,Cafes,,2.0,Snacks
+17596,The Mad Teapot,No,Yes,Greenwich,4.1/5,287.0,080 40931683,Cafe,Cafes,7.0,1.0,Snacks
+874,Melt - Eden Park,Yes,Yes,Midtown,4.0/5,347.0, 9606487102,,Buffet,7.0,5.0,American
+15807,Still Sipping,Yes,Yes,East Village,NEW,0.0,080 49653518,Cafe,Cafes,1.0,3.0,Snacks
+324,Anand Donne Biriyani,Yes,No,Chelsea,3.6/5,45.0, 8892398288,Quick Bites,Delivery,1.0,1.0,Italian
+42360,Chetty's Coffee,Yes,No,Greenwich,3.9 /5,44.0, 7022324118,Quick Bites,Delivery,3.0,1.0,Mexican
+17038,House Stark Cafe,Yes,No,East Village,3.9/5,44.0, 9538735364,,Dine-out,1.0,4.0,Snacks
+32130,Urban Spoon Buffet Restaurant,No,Yes,Tribeca,3.5 /5,32.0," 9900178610,  9900178608",Casual Dining,Buffet,1.0,2.0,American
+8832,Nandhanus Rasoi,Yes,No,Chelsea,3.4/5,9.0, 9632490428,Quick Bites,Delivery,,3.0,Chinese
+17598,Lahe Lahe Santhe,No,No,Greenwich,3.7/5,17.0, 9886294444,Cafe,Cafes,1.0,2.0,Snacks
+10597,Khaja Point,No,No,Lower Manhattan,NEW,0.0, 9886804017,Quick Bites,Dine-out,1.0,3.0,American
+2509,Fabcafe,No,Yes,Chelsea,NEW,0.0, 8050403072,Cafe,Cafes,1.0,2.0,Snacks
+21398,Marenahalli Donne Biriyani,Yes,No,Midtown,4.0 /5,263.0, 9740682049,Quick Bites,Dine-out,1.0,2.0,Italian
+23847,The Lounge - Eden Park Restaurants,No,Yes,Chelsea,3.8/5,151.0, 8880845845,Lounge,Drinks & nightlife,5.0,2.0,American
+41866,Curry Box,No,No,Staten and Ellis Islands,,0.0, 9945398372,Quick Bites,Dine-out,1.0,1.0,American
+31991,Drunkling - Sizzlers and Pub,Yes,Yes,Tribeca,4.4 /5,346.0," 8660457440,  8025505542",Casual Dining,Drinks & nightlife,7.0,6.0,Chinese
+19544,Vegetarea,Yes,No,Lower Manhattan,3.9/5,38.0,080 43334333,Takeaway,Delivery,1.0,1.0,Mexican
+6849,American Aroma Cafe,Yes,No,Chinatown,2.8/5,83.0, 7204930881,Quick Bites,Delivery,1.0,2.0,American
+23413,Biriyani Expess,No,No,Midtown,,0.0," 9972882747,  9535096664",Quick Bites,Dine-out,1.0,1.0,Italian
+14721,Imperial Restaurant,Yes,No,Greenwich,3.9/5,239.0,"080 69994888, 080 25254888",Casual Dining,Delivery,7.0,5.0,American
+7251,99 Udupi Veg,No,No,Staten and Ellis Islands,,0.0," 9513367801,  9513367802",Quick Bites,Delivery,1.0,2.0,Mexican
+30786,Chai Makhan,No,No,Lower Manhattan,,0.0, 7022287907,Quick Bites,Delivery,1.0,3.0,American
+26879,Soup'ermanz Kitchen,Yes,No,East Village,4.1/5,441.0," 7795076877,  7259725921",Cafe,Delivery,,3.0,Snacks
+8059,Paprica,Yes,No,Staten and Ellis Islands,2.6/5,118.0," 9379978822, 080 30208899",Casual Dining,Dine-out,5.0,2.0,American
+32533,Fujian Express,Yes,No,East Village,3.2 /5,16.0,080 43334321,Quick Bites,Delivery,1.0,4.0,Chinese
+44724,Perk - Estd 1986 Delhi,Yes,Yes,Greenwich,4.4 /5,1522.0,"080 48536713
+ 8884498122",Casual Dining,Buffet,7.0,3.0,American
+29361,Capsicum Family Restaurant,Yes,No,Lower Manhattan,3.8 /5,256.0,080 49652486,Casual Dining,Delivery,1.0,2.0,Italian
+36021,Om Made Cafe,No,No,Tribeca,4.1 /5,2737.0,"080 43024010
+080 25533369",,Delivery,7.0,4.0,Snacks
+31968,Ammus Hot N Cool,Yes,No,Lower Manhattan,3.4 /5,84.0, 7829389148,Quick Bites,Dine-out,1.0,5.0,American
+31774,Healthy Parathawala,Yes,No,Lower Manhattan,,0.0, 8095555240,Quick Bites,Dine-out,1.0,1.0,American
+20698,Jaganath Restaurant And Hotel,No,No,Midtown,3.2/5,8.0," 8197357084,  8748968277",Quick Bites,Delivery,1.0,1.0,American
+22527,Mainland China,Yes,Yes,Chelsea,4.3/5,885.0,"080 26532525, 080 33278277",Casual Dining,Delivery,7.0,2.0,
+23188,Melt - Eden Park,Yes,Yes,Midtown,4.0/5,347.0, 9606487102,Casual Dining,Dine-out,7.0,5.0,American
+16714,Pavan Tiffin Center,Yes,No,East Village,3.3/5,8.0, 9449346123,Quick Bites,Delivery,1.0,1.0,Mexican
+41166,Ram Bhog,No,No,Staten and Ellis Islands,3.8 /5,24.0," 9902077285
+ 8867732697",Quick Bites,Delivery,1.0,2.0,Chinese
+32807,Vintage Shack,Yes,Yes,East Village,3.9 /5,163.0,080 49652190,Casual Dining,Delivery,7.0,2.0,American
+26953,Fresh Pressery Cafe,Yes,No,Tribeca,4.1/5,138.0,080 41724989,Cafe,Delivery,7.0,5.0,Snacks
+11233,5th Main Cafe,No,No,East Village,3.5 /5,15.0, 9886335005,Cafe,Dine-out,1.0,2.0,Snacks
+37379,Shater Grill House,No,No,Lower Manhattan,3.5 /5,8.0," 9108964477
+ 8048659369",Casual Dining,Dine-out,1.0,3.0,American
+2995,Jalpaan,Yes,Yes,Chelsea,4.0/5,866.0,"080 26761992,  9591996826",Casual Dining,Delivery,7.0,2.0,American
+8330,Truffles,No,No,Tribeca,4.7/5,14654.0,080 49652818,Cafe,Cafes,7.0,4.0,Snacks
+8747,Omleterian,Yes,No,Midtown,,0.0, 7005889963,Delivery,Delivery,1.0,2.0,American
+21715,Sri Krishna Johnson,No,No,Midtown,3.1 /5,,080 26660720,Quick Bites,Dine-out,3.0,4.0,Mexican
+41575,MealBox Inc.,Yes,No,Staten and Ellis Islands,3.9 /5,36.0, 9886387402,Casual Dining,Dine-out,6.0,1.0,American
+28100,HungerLoft,Yes,No,Lower Manhattan,2.5/5,109.0, 9597450021,Casual Dining,Delivery,1.0,3.0,American
+32838,Chatter Platter,Yes,No,Lower Manhattan,3.4 /5,30.0, 8150994830,Quick Bites,Delivery,1.0,4.0,American
+28010,Snaiksa Foods,No,No,East Village,,0.0, 7022808434,Quick Bites,,1.0,2.0,American
+31884,Borah's Kitchen,Yes,No,Lower Manhattan,3.3 /5,12.0, 9844900364,Quick Bites,Dine-out,1.0,2.0,American
+23190,Mandi,Yes,Yes,Midtown,3.8/5,561.0,"080 26581432,  9880493432",Casual Dining,Dine-out,7.0,1.0,American
+9725,Kallummakkaya,Yes,No,Lower Manhattan,NEW,0.0, 9605141138,Quick Bites,Delivery,1.0,2.0,Mexican
+27582,Naati Manae,Yes,Yes,Tribeca,3.9/5,484.0,"080 41116661, 080 41136661",Casual Dining,Delivery,7.0,4.0,American
+22789,Spicy World,Yes,No,Midtown,3.4/5,7.0, 9008485177,Takeaway,Delivery,1.0,1.0,American
+37414,RGS Ambur briyani,No,No,Lower Manhattan,,0.0, 8095566413,Quick Bites,Dine-out,1.0,2.0,Italian
+21087,Punjabi Raswada,Yes,Yes,Chelsea,3.6 /5,432.0," 9740105551, 080 49784222",Casual Dining,Dine-out,7.0,1.0,American
+17330,Ande Ka Funda,No,No,East Village,3.3/5,5.0, 9035898378,Quick Bites,Dine-out,1.0,3.0,American
+34944,A2B - Adyar Ananda Bhavan,Yes,No,Lower Manhattan,4.2 /5,40.0,080 43334321,Takeaway,Delivery,1.0,3.0,Mexican
+21931,New Mahesh Friends Food Corner,Yes,No,Lower Manhattan,3.2/5,49.0," 9902419754,  9972913805",Quick Bites,Delivery,,2.0,American
+51605,Bong Connections,No,No,Chinatown,NEW,0.0, 7209035062,Quick Bites,Dine-out,,2.0,Chinese
+45866,The Ants Cafe & Store,Yes,Yes,Greenwich,3.9 /5,1387.0," 7204701157
+080 41715639",Cafe,Dine-out,7.0,3.0,Snacks
+23675,New Udupi Upahar,Yes,No,Chelsea,3.5/5,23.0,"080 26653377,  9481801313",Quick Bites,Dine-out,1.0,2.0,Mexican
+8916,Golden Restaurant,Yes,Yes,East Village,3.4/5,409.0,"080 48544452,  9591444953",Casual Dining,Delivery,2.0,2.0,American
+28400,Dyu Art Cafe,No,No,Tribeca,4.5 /5,3843.0," 9895674244,  9611319774",Cafe,Dine-out,7.0,3.0,Snacks
+2242,Barbeque Nation,No,Yes,Midtown,4.7/5,3844.0, 8064806060,Casual Dining,Dine-out,7.0,5.0,American
+22207,The Coastal Crew by Fujian on 24th,Yes,Yes,Midtown,4.2/5,1033.0,"080 26499444,  8951516623",Casual Dining,Delivery,7.0,5.0,Chinese
+36097,Healthy Parathawala,Yes,No,Lower Manhattan,,, 8095555240,Quick Bites,Delivery,1.0,1.0,American
+51220,ASIA SEVEN,Yes,No,Chinatown,3.3 /5,4.0," 8130610064
+ 8700413744",Food Court,Dine-out,1.0,1.0,Chinese
+11444,"3B's - Buddies, Bar & Barbecues",No,Yes,Lower Manhattan,4.4/5,1149.0, 8880088696,Casual Dining,Drinks & nightlife,7.0,4.0,American
+7932,Mani's Dum Burger,Yes,No,Staten and Ellis Islands,3.9/5,279.0,"080 43006111,  9606441695",Casual Dining,Dine-out,3.0,2.0,Italian
+16201,Tea Villa Cafe,Yes,Yes,East Village,4.2/5,859.0,"080 49755755,  9148255755",Cafe,Delivery,7.0,7.0,Snacks
+50711,Udupi Veg Express,No,No,Chinatown,,0.0, 7204077555,Quick Bites,Delivery,1.0,3.0,Mexican
+3514,Bengaluru Cafe,No,No,Chelsea,4.4/5,134.0,,Quick Bites,Dine-out,,1.0,Mexican
+16263,Biriyani Zone,Yes,No,East Village,3.9/5,668.0," 9980000887,  9980000744",Casual Dining,Delivery,7.0,4.0,Italian
+23670,RB Food Point,Yes,No,Lower Manhattan,3.7/5,34.0,080 49652100,Quick Bites,Dine-out,1.0,2.0,American
+2841,New Udupi Upahar,Yes,No,Chelsea,3.5/5,23.0,"080 26653377,  9481801313",Quick Bites,Delivery,,2.0,Mexican
+10925,Hungry Hippie,No,Yes,Tribeca,4.3/5,1463.0,080 49653231,Cafe,Dine-out,7.0,4.0,Snacks
+27129,Caffe Pascucci,Yes,Yes,East Village,4.1/5,723.0, 8043758922,Cafe,Delivery,7.0,5.0,Snacks
+45204,Chetty's Coffee,Yes,No,Greenwich,3.9 /5,45.0, 7022324118,Quick Bites,Delivery,3.0,1.0,Mexican
+22372,Churchill's,Yes,Yes,Midtown,4.1/5,1405.0," 9035475040,  9845033470",Casual Dining,Delivery,7.0,2.0,American
+7181,Sai Foods,No,No,Staten and Ellis Islands,4.1/5,122.0, 9008353777,Quick Bites,Delivery,7.0,1.0,American
+31170,Tella Tales,Yes,No,Tribeca,4.2 /5,414.0, 8792110657,Cafe,Dine-out,7.0,3.0,Snacks
+34741,Hunan,No,Yes,Tribeca,4.3 /5,2254.0,080 25520154,Casual Dining,Buffet,7.0,3.0,Chinese
+17527,Mainland China,Yes,Yes,Greenwich,4.4/5,1507.0,080 49652961,Casual Dining,Buffet,7.0,2.0,Chinese
+51071,Chili's American Grill & Bar,Yes,No,Chinatown,4.6 /5,4957.0," 9741189934
+ 9331635306",Casual Dining,Dine-out,7.0,5.0,American
+50757,Sri Rajarajeswari Andhra Mess,No,No,Chinatown,,0.0, 9060080375,Mess,Delivery,1.0,2.0,Mexican
+29002,New York Star Biriyani,No,No,Lower Manhattan,3.4 /5,7.0, 9620871987,Quick Bites,Dine-out,1.0,3.0,Italian
+35641,Indori Chatorey,Yes,No,Lower Manhattan,2.8 /5,, 8050765508,Quick Bites,Delivery,6.0,2.0,American
+42323,Meghana Foods,Yes,Yes,Greenwich,4.2 /5,1772.0,"080 41135050
+080 41757070",Casual Dining,Delivery,7.0,1.0,American
+1096,Chulha Chauki Da Perk,Yes,No,Midtown,4.2/5,2350.0,"080 41204283,  7349738056",Casual Dining,Delivery,7.0,1.0,
+18970,New Ambur Hot Dum Burger,No,No,Greenwich,,0.0," 9886606696,  9108783730",Quick Bites,Dine-out,1.0,1.0,Italian
+23147,Barbeque Nation,No,Yes,Midtown,4.7/5,3855.0, 8064806060,Casual Dining,Dine-out,7.0,5.0,American
+18809,The Beer Joint,No,No,Greenwich,3.4/5,77.0,080 25250346,Casual Dining,Dine-out,,2.0,American
+4162,Tandoori Club,Yes,No,East Village,NEW,0.0," 8296255666,  8296155666",Casual Dining,Delivery,1.0,3.0,American
+37263,Kallummakkaya,Yes,No,Lower Manhattan,,0.0, 9605141138,,Dine-out,1.0,2.0,Mexican
+23345,Pushpa Darshini,No,No,Midtown,3.6/5,20.0, 9482213336,Quick Bites,Dine-out,1.0,1.0,Mexican
+1324,The Kitchen,Yes,No,Midtown,NEW,0.0, 8197678636,Casual Dining,Delivery,1.0,3.0,American
+29041,Nandhanam Restaurant,Yes,No,East Village,3.8 /5,8.0, 8310884153,Quick Bites,Dine-out,1.0,2.0,Mexican
+21102,Hyderabad Bawarchi,No,No,Chelsea,3.9 /5,118.0," 8884979343,  9985900859",Casual Dining,Dine-out,6.0,3.0,American
+29179,Deepam Tiffins,No,No,Lower Manhattan,,0.0," 7003050054,  9748122867",Quick Bites,Dine-out,1.0,3.0,Mexican
+1823,Chawla's 2 Online.com,Yes,No,Midtown,3.5/5,5.0, 9910009994,Delivery,Delivery,1.0,1.0,American
+2800,Ragoo's,Yes,No,Chelsea,3.9/5,233.0,"080 26762888, 080 26763888",Casual Dining,Delivery,7.0,4.0,Italian
+17042,Azimmo Treat,Yes,No,East Village,3.8/5,41.0, 8861752567,Casual Dining,Dine-out,1.0,2.0,American
+51580,New Taj Darbar,No,No,Chinatown,3.1 /5,6.0," 9845190414
+ 9880357865",Quick Bites,Dine-out,1.0,3.0,Mexican
+40536,Earthen Bowl,No,No,Staten and Ellis Islands,3.9 /5,90.0," 7760944477
+ 9663313993",Cafe,Cafes,,2.0,Snacks
+17243,Sushi & Nachos Cafe,No,No,East Village,2.6/5,91.0," 7338660005,  7338460005",Quick Bites,Dine-out,4.0,1.0,Mexican
+2320,Deccan Spice,No,No,Midtown,3.5/5,65.0," 9902528053, 080 48651758",Casual Dining,Dine-out,3.0,3.0,American
+21129,The Sofraah Kebabs & Kurries - Eden Park Restaurants,No,Yes,Chelsea,3.8 /5,176.0,"080 42777333,  8884416393",Casual Dining,Dine-out,7.0,2.0,American
+35772,New Prashanth Hotel,Yes,No,Chelsea,3.6 /5,142.0,"080 26530150
+ 8861190190",Casual Dining,Delivery,6.0,4.0,Mexican
+17711,Bathinda Dine,Yes,No,Greenwich,4.1/5,730.0," 8048515558,  8296600145",Casual Dining,Delivery,7.0,1.0,American
+17921,Lazy Suzy,Yes,Yes,Greenwich,4.3/5,1236.0,080 49652565,Cafe,Delivery,7.0,8.0,Snacks
+41715,Hyderabad Dawat,Yes,No,Staten and Ellis Islands,3.4 /5,31.0," 9108620017
+ 9108620064",Casual Dining,Dine-out,1.0,2.0,Italian
+15904,Pensiri Cafe,Yes,No,East Village,3.5/5,48.0, 8867456453,Takeaway,Delivery,,1.0,American
+17696,Andal Mess,Yes,No,Greenwich,3.6/5,133.0, 91481886353,Mess,Delivery,5.0,3.0,Italian
+31877,Basava Hotel,No,No,Lower Manhattan,,0.0, 9986395777,Quick Bites,Dine-out,1.0,1.0,Mexican
+21283,Sattvam,No,No,Midtown,4.3 /5,362.0,"080 26595000,  9483275526",Casual Dining,Dine-out,7.0,2.0,American
+7315,Pindi New York,No,No,Chinatown,NEW,0.0, 6363701507,Casual Dining,Delivery,1.0,4.0,American
+17646,Chai Days,Yes,No,Greenwich,4.4/5,105.0,080 49652841,Cafe,Delivery,5.0,4.0,Snacks
+29406,Golden Restaurant,Yes,Yes,East Village,3.4 /5,411.0,"080 48544452,  9591444953",Casual Dining,Delivery,2.0,2.0,American
+50126,The Waverly Express,No,No,Chinatown,3.5 /5,12.0, 9108481279,Cafe,Cafes,1.0,1.0,Snacks
+790,Ragoo's,Yes,No,Chelsea,3.9/5,233.0,"080 26762888, 080 26763888",Casual Dining,Dine-out,7.0,4.0,Italian
+14683,Paradise,Yes,No,Greenwich,4.1/5,3248.0," 9513477571,  9886225506",Casual Dining,Delivery,7.0,3.0,Italian
+32510,Smally's Resto Cafe,Yes,Yes,Tribeca,4.2 /5,1705.0," 7406772442,  7406772332",Cafe,Delivery,7.0,5.0,Snacks
+22855,UNIK Food,No,No,Chelsea,3.3/5,4.0, 9343219117,Quick Bites,Delivery,1.0,2.0,American
+35769,D View Cafe,Yes,No,Midtown,4.0 /5,510.0, 9538943596,Cafe,Delivery,7.0,4.0,Snacks
+20461,Tandoor Hut,Yes,No,Tribeca,4.1/5,1003.0,"080 25501899, 080 25631899",Casual Dining,Delivery,,4.0,American
+16141,Kolapasi Take away,No,No,East Village,,0.0," 8197405140,  9080467565",Quick Bites,Delivery,1.0,2.0,Mexican
+10634,Udupi Gokul Cafe,No,No,Lower Manhattan,3.8/5,58.0, 9886885678,Quick Bites,Dine-out,2.0,1.0,Mexican
+28962,New Prashanth Hotel,Yes,No,East Village,3.1 /5,53.0, 9916511155,Casual Dining,Dine-out,1.0,4.0,Mexican
+35952,Hungry Stone,Yes,No,Tribeca,,0.0, 9886014624,Takeaway,Delivery,1.0,4.0,American
+32687,American Paratha Factory,Yes,No,Lower Manhattan,2.9 /5,24.0, 9108091606,Quick Bites,Delivery,1.0,1.0,American
+41782,Parrattha Ssinghh,Yes,No,Staten and Ellis Islands,4.1 /5,48.0, 7483073451,Quick Bites,Dine-out,3.0,1.0,American
+32285,Namma Biriyani,Yes,No,Tribeca,3.7 /5,17.0,080 43758178,Quick Bites,Delivery,1.0,3.0,Italian
+41368,Chai Darbaar,Yes,No,Staten and Ellis Islands,3.1 /5,7.0,"080 43728746
+ 8073390411",Quick Bites,Delivery,1.0,3.0,American
+50665,NYS Kitchen,No,No,Chinatown,,0.0," 9620097933
+ 7975558436",Quick Bites,Delivery,1.0,2.0,American
+8789,Capsicum Family Restaurant,Yes,No,Lower Manhattan,3.8/5,254.0,080 49652641,Casual Dining,Delivery,1.0,2.0,Italian
+7383,Sanjha Chulha,Yes,Yes,Staten and Ellis Islands,4.0/5,152.0," 8861611114,  8861711114",Casual Dining,Delivery,7.0,3.0,American
+40828,Kinara Tiffany,No,No,Staten and Ellis Islands,,0.0," 9844467370
+ 9538919703",Quick Bites,Delivery,1.0,1.0,Mexican
+26513,Naati Manae,Yes,Yes,Tribeca,3.9/5,484.0,"080 41116661, 080 41136661",Casual Dining,Buffet,7.0,4.0,American
+15999,Dindigul Time Pass Restaurant,Yes,No,East Village,3.2/5,115.0," 7795012021,  9686612009",Casual Dining,Delivery,1.0,4.0,Mexican
+22596,Punjabi Raswada,Yes,Yes,Chelsea,3.5/5,432.0," 9740105551, 080 49784222",Casual Dining,Delivery,7.0,1.0,American
+30235,Healthy Parathawala,Yes,No,Lower Manhattan,,0.0, 8095555240,Quick Bites,Delivery,1.0,1.0,American
+31951,Pakiza Dilli Darbar Restaurant,Yes,No,Lower Manhattan,3.2 /5,13.0, 9391668083,Quick Bites,Dine-out,,1.0,Italian
+34732,Buff Buffet Buff,Yes,Yes,Tribeca,4.5 /5,3170.0,080 45128765,Casual Dining,Buffet,7.0,5.0,American
+11521,Bottle Breacher,No,Yes,Midtown,4.2/5,1194.0, 9482512009,Casual Dining,Pubs and bars,7.0,2.0,Italian
+17123,Perk Central,No,No,East Village,3.3/5,5.0, 8042105050,Casual Dining,Dine-out,1.0,1.0,American
+35374,Burger Magic,Yes,No,Lower Manhattan,3.5 /5,31.0," 9986583274
+ 9886766087",Quick Bites,Delivery,1.0,2.0,American
+41582,Nizam's Burger House,Yes,No,Staten and Ellis Islands,3.9 /5,772.0," 8123403000
+ 9036008357",Casual Dining,Dine-out,5.0,2.0,American
+227,Tiwari's,Yes,No,Chelsea,3.8/5,70.0," 9844733389,  7829398815",Quick Bites,Delivery,4.0,2.0,American
+9117,David's Kitchen,Yes,No,Lower Manhattan,3.5/5,13.0," 9035721005,  8880550888",Quick Bites,Delivery,1.0,3.0,American
+8043,Southern Spice,No,Yes,Chinatown,3.0/5,83.0," 9000701982,  9985278880",Casual Dining,Dine-out,4.0,1.0,Mexican
+18309,BabaYaga's,Yes,Yes,Greenwich,4.1/5,201.0,080 49652754,Bar,Delivery,7.0,2.0,American
+2960,Davangere Benna Dose Hotel,Yes,No,Chelsea,4.1/5,90.0, 7259699320,,Delivery,3.0,1.0,Mexican
+34939,Rajdhani Thali Restaurant,Yes,Yes,Midtown,3.9 /5,891.0," 9886022552
+080 41126111",Casual Dining,Delivery,7.0,1.0,American
+37355,Borah's Kitchen,Yes,No,Lower Manhattan,3.3 /5,12.0, 9844900364,Quick Bites,Dine-out,1.0,2.0,American
+8656,Vindu Andhra Ruchulu,Yes,No,Chelsea,3.8/5,281.0,"080 22442527,  9900007666",Casual Dining,Delivery,,3.0,Italian
+34742,Empire Restaurant,Yes,No,Tribeca,4.1 /5,6959.0,080 45128675,Casual Dining,Buffet,7.0,4.0,American
+46069,Ciclo Cafe,Yes,No,Greenwich,4.3 /5,1332.0,"080 48664512
+ 8667642029",Cafe,Drinks & nightlife,7.0,3.0,Snacks
+18782,UTHRA,No,Yes,Greenwich,4.0/5,103.0," 9113857553, 080 48667065",Casual Dining,Dine-out,4.0,2.0,American
+20383,Zhang's - Chinese Restaurant,Yes,No,Midtown,4.1/5,590.0,"080 26595988, 080 26596420",Casual Dining,Delivery,7.0,2.0,Chinese
+37467,Ambur Biriyani Point,No,No,Lower Manhattan,3.6 /5,26.0, 8792721772,,Dine-out,1.0,1.0,Italian
+18204,Dine @ 9 Paratha Corner,Yes,No,Greenwich,,33.0," 9380868077,  8192838087",Quick Bites,Delivery,1.0,2.0,American
+33564,Choo Zi,No,No,Tribeca,NEW,0.0," 8010111666,  9810238570",Delivery,Delivery,,1.0,Chinese
+16035,Sushi & Nachos Cafe,No,No,East Village,2.6/5,91.0," 7338660005,  7338460005",Quick Bites,Delivery,4.0,1.0,Mexican
+19410,Tea Villa Cafe,No,Yes,Chelsea,4.2/5,656.0,080 49653143,Cafe,Cafes,7.0,5.0,Snacks
+3741,The Lounge - Eden Park Restaurants,No,Yes,Chelsea,3.7/5,151.0, 8880845845,Lounge,Drinks & nightlife,5.0,2.0,American
+17526,Urban Tamaasha,Yes,Yes,Greenwich,4.1/5,840.0," 9513951515,  9606082474",Casual Dining,Buffet,7.0,3.0,American
+16689,Wings Mama,Yes,No,East Village,,0.0, 8095066833,Takeaway,Delivery,1.0,2.0,American
+45345,Mayo N Burger,Yes,No,Greenwich,3.2 /5,4.0, 7338047075,Quick Bites,Delivery,1.0,1.0,American
+2370,Nammuru Nati Hotel,No,No,Midtown,,0.0, 9535613547,Quick Bites,Dine-out,1.0,1.0,Mexican
+19412,Dr. Sheesha,No,Yes,Midtown,4.1/5,1445.0,080 49653341,Cafe,Cafes,7.0,4.0,Snacks
+9508,Udupi Thadka,No,No,Lower Manhattan,,0.0,080 43021681,Quick Bites,Delivery,1.0,3.0,Mexican
+20464,Thai Chang,Yes,Yes,Chelsea,4.1/5,2345.0,"080 22443007,  9901967373",Casual Dining,Delivery,7.0,3.0,American
+8364,Willys Top Cafe,Yes,No,Chelsea,4.0/5,310.0," 7795808555, 00 09176703991",Cafe,Cafes,7.0,3.0,Snacks
+34607,Royal's Burger,Yes,No,Lower Manhattan,,0.0, 9980871513,Quick Bites,Dine-out,1.0,1.0,Italian
+9534,Sree Food Paradise,No,No,Lower Manhattan,,0.0, 8951458076,Quick Bites,Delivery,1.0,2.0,American
+8460,Paratha Junction,Yes,No,Lower Manhattan,2.9/5,177.0, 9535673059,Quick Bites,Delivery,2.0,2.0,American
+2952,Mainland China,Yes,Yes,Chelsea,4.3/5,881.0,"080 26532525, 080 33278277",Casual Dining,Delivery,7.0,2.0,Chinese
+15929,Soup'ermanz Kitchen,Yes,No,East Village,4.1/5,439.0," 7795076877,  7259725921",Cafe,Delivery,7.0,3.0,Snacks
+17273,American Paratha Factory,Yes,No,East Village,2.7/5,140.0," 9108529166,  7338491606",Quick Bites,Dine-out,7.0,1.0,American
+27655,Manhattan Lunch Home,Yes,No,Lower Manhattan,3.6/5,42.0, 9900603369,Quick Bites,Delivery,1.0,3.0,American
+23430,Sahodara Savi Ruchi,Yes,No,Midtown,,0.0," 9844987999,  9986069846",Quick Bites,Dine-out,1.0,1.0,Mexican
+18762,The Tiny Taproom,No,No,Greenwich,NEW,0.0, 9886420335,Bar,Dine-out,1.0,4.0,Mexican
+50289,Kababji Cafe,Yes,No,Chinatown,,0.0,080 43334333,Takeaway,Delivery,1.0,4.0,Italian
+51080,Imperio Restaurant,Yes,Yes,Chinatown,4.4 /5,2382.0," 7411905151
+00 08061525151",Casual Dining,Dine-out,7.0,6.0,American
+23671,Daniyal's,Yes,No,Lower Manhattan,3.1/5,42.0, 8197567419,Quick Bites,Dine-out,1.0,4.0,American
+8008,Flavors of America,Yes,No,Staten and Ellis Islands,3.6/5,34.0, 9513397311,Casual Dining,Dine-out,1.0,3.0,American
+7968,The Big Spoon,Yes,No,Chinatown,3.8/5,45.0," 6360116461,  9819246944",Casual Dining,Dine-out,1.0,2.0,American
+10667,Chicken Magic,Yes,No,Lower Manhattan,3.7/5,209.0, 8095577245,Quick Bites,Dine-out,1.0,2.0,Chinese
+23258,Wangs Kitchen,Yes,No,Midtown,2.8/5,39.0,080 39253925,Casual Dining,Dine-out,1.0,1.0,Chinese
+22256,Baba Chatkora,No,No,Midtown,NEW,0.0, 9880894199,Casual Dining,Delivery,3.0,1.0,American
+21348,Mavalli Tiffin Room (MTR),No,No,Midtown,4.2 /5,875.0,080 26586633,Quick Bites,Dine-out,7.0,1.0,Mexican
+44773,Lahe Lahe Santhe,No,No,Greenwich,3.8 /5,20.0, 9886294444,Cafe,Cafes,1.0,2.0,Snacks
+21073,Eurasia Pasta and Barbeque by Little Italy,Yes,Yes,Chelsea,4.0 /5,1065.0,"080 22452202, 080 22452203",Casual Dining,Dine-out,7.0,4.0,
+32375,Asha Tiffins,Yes,No,East Village,4.3 /5,286.0, 7619682498,Quick Bites,Delivery,6.0,1.0,Mexican
+14809,Aagaman Veg,Yes,No,Greenwich,4.0/5,558.0,"080 40956662, 080 40926663",Casual Dining,Delivery,7.0,3.0,American
+22362,The Airos,Yes,No,Chelsea,4.1/5,130.0, 7026390001,Cafe,Delivery,7.0,3.0,Snacks
+16433,Caffe Pascucci,Yes,Yes,East Village,,720.0, 8043758922,Cafe,Delivery,7.0,5.0,Snacks
+9553,Invitation Bar & Restaurant,No,No,Lower Manhattan,3.0/5,15.0, 9886055270,Bar,Delivery,1.0,1.0,American
+29936,Grills And Tandoor,Yes,Yes,Tribeca,3.7 /5,110.0," 8910378576, 080 43761888",Casual Dining,Delivery,7.0,2.0,American
+22219,Sri Sapana Perk,Yes,No,Lower Manhattan,3.4/5,9.0, 7411562150,Quick Bites,Delivery,1.0,1.0,American
+16992,The Punjabi Rasoi,No,No,East Village,4.0/5,1829.0,"080 25720999,  9591957444",Casual Dining,Dine-out,7.0,1.0,American
+20106,High n Hungry,Yes,No,Lower Manhattan,2.9/5,95.0,"040 42150606,  9886941212",Delivery,Delivery,2.0,4.0,American
+18239,New York Hotel,No,No,Greenwich,,0.0, 9901993236,Quick Bites,Delivery,1.0,2.0,Italian
+32286,Swad Punjab Da,Yes,No,Lower Manhattan,4.1 /5,133.0, 8360151853,Quick Bites,Delivery,5.0,1.0,American
+51691,Uno Chicago Bar & Grill,No,Yes,Chinatown,4.2 /5,156.0," 9667540036
+ 7042349751",Bar,Pubs and bars,7.0,2.0,American
+50610,Copper Chimney,Yes,Yes,Chinatown,4.1 /5,0.0," 8067266455
+ 8657410221",Casual Dining,Delivery,6.0,2.0,American
+35245,Pappu Chaiwalla,Yes,No,Lower Manhattan,3.1 /5,90.0,080 49721444,Quick Bites,Delivery,7.0,4.0,American
+28001,Lets cafe,No,No,Tribeca,3.5/5,6.0, 9573819444,Quick Bites,Delivery,1.0,2.0,Chinese
+31953,HOTEL VKM,Yes,No,Lower Manhattan,,0.0," 9880622209,  7411290003",Quick Bites,Dine-out,1.0,1.0,Mexican
+45299,The Teal Door Cafe,Yes,No,Greenwich,4.2 /5,1920.0,080 49653146,Cafe,Delivery,7.0,2.0,Snacks
+41638,Flavors of America,Yes,No,Staten and Ellis Islands,3.6 /5,34.0, 9513397311,Casual Dining,Dine-out,1.0,3.0,American
+37595,Invitation Bar & Restaurant,No,No,Lower Manhattan,3.0 /5,16.0, 9886055270,Bar,Drinks & nightlife,,1.0,American
+34449,Royal Paris,Yes,No,Lower Manhattan,3.8 /5,72.0,"080 26845444
+080 26846444",Casual Dining,Dine-out,2.0,3.0,American
+10214,Hang10 Resto N Cafe,Yes,No,Lower Manhattan,3.8 /5,102.0," 7353222277
+ 7353444477",Casual Dining,Desserts,5.0,3.0,American
+37128,Grillopia,Yes,No,Lower Manhattan,3.9 /5,99.0," 7042445999
+ 7042067999",Quick Bites,Dine-out,3.0,6.0,Italian
+23199,Starbucks,No,No,Midtown,4.2/5,386.0," 9663994264,  8884678564",Cafe,Dine-out,7.0,2.0,Snacks
+42156,The Mint Resto Bar,No,Yes,Staten and Ellis Islands,2.6 /5,62.0, 7259688882,Casual Dining,Drinks & nightlife,1.0,3.0,American
+28926,Here & Now,No,No,East Village,4.6 /5,1590.0, 9108790611,Cafe,Dine-out,7.0,4.0,Snacks
+2243,Sattvam,No,No,Midtown,4.3/5,353.0,"080 26595000,  9483275526",Casual Dining,Dine-out,7.0,2.0,American
+37220,Johnson Fast Food,Yes,No,Lower Manhattan,3.7 /5,67.0,080 26686112,Quick Bites,Dine-out,3.0,3.0,Mexican
+10678,Speedbreaker,Yes,No,Lower Manhattan,3.4/5,," 9980399477,  8660933013",Quick Bites,Dine-out,1.0,1.0,American
+2359,Nandi Bidadi Thatte Sushi,No,No,Midtown,2.9/5,33.0, 8884867598,Quick Bites,Dine-out,1.0,1.0,
+32497,Chung Wah,Yes,No,Tribeca,4.0 /5,314.0,"080 41607888, 080 41607999",Casual Dining,Delivery,7.0,4.0,Chinese
+10430,Brother?s Bar & Kitchen,No,No,Lower Manhattan,3.4/5,5.0, 9945793981,Casual Dining,Dine-out,1.0,2.0,Chinese
+20750,Suji's Kitchen,No,No,Midtown,,0.0, 7899975264,Quick Bites,Delivery,1.0,2.0,Mexican
+32463,David's Kitchen,Yes,No,Lower Manhattan,3.6 /5,14.0," 9035721005,  8880550888",Quick Bites,Delivery,1.0,3.0,American
+19392,The Yellow Chilli,Yes,Yes,Chelsea,3.8/5,584.0,080 41712345,Casual Dining,Buffet,7.0,3.0,American
+3853,Sri Vishnu Veg,Yes,No,Staten and Ellis Islands,3.5/5,11.0," 8971112280,  9964394099",Quick Bites,Delivery,1.0,1.0,Mexican
+17540,Zaica Dine & Wine,Yes,Yes,Greenwich,4.0/5,1013.0," 9731333833, 080 41201745",Casual Dining,Buffet,7.0,1.0,American
+21132,The Grillo,Yes,Yes,Chelsea,,80.0, 8043940555,Casual Dining,Dine-out,1.0,5.0,American
+36738,YORK St.,Yes,No,Tribeca,4.4 /5,951.0, 7624945998,Cafe,Dine-out,7.0,3.0,Snacks
+17616,Planet Popcorn,No,No,Greenwich,,0.0," 8095977522,  9945157573",Cafe,Cafes,1.0,1.0,Snacks
+18486,Happy Eats,Yes,No,Greenwich,NEW,0.0, 8049595676,Delivery,Delivery,1.0,2.0,American
+18529,Eddy's Cafe,Yes,No,Greenwich,4.1/5,137.0, 6361292968,Cafe,Desserts,7.0,8.0,Snacks
+37432,Deepam Tiffins,No,No,Lower Manhattan,,0.0," 7003050054
+ 9748122867",Quick Bites,Dine-out,1.0,3.0,Mexican
+7645,Oregano Soul Food,Yes,No,Chinatown,4.1/5,142.0, 8867266627,Cafe,Delivery,7.0,1.0,Snacks
+997,Paradise,Yes,No,Midtown,4.0/5,1974.0," 9513477574,  9901842605",Casual Dining,Delivery,7.0,3.0,Italian
+20417,Punjabi Raswada,Yes,Yes,Chelsea,3.5/5,432.0," 9740105551, 080 49784222",Casual Dining,Delivery,7.0,1.0,American
+30468,Akshaya Grand,Yes,No,Lower Manhattan,3.4 /5,29.0," 9844508520, 080 26682939",Casual Dining,Delivery,1.0,1.0,American
+31104,American Coffee House & Restaurant,No,No,Tribeca,4.2 /5,676.0, 8025522339,Casual Dining,Dine-out,7.0,3.0,Mexican
+32922,Ammus Hot N Cool,Yes,No,Lower Manhattan,3.4 /5,84.0, 7829389148,Quick Bites,Delivery,1.0,5.0,American
+41213,Ganga Foods,Yes,No,Staten and Ellis Islands,3.5 /5,18.0, 9513219630,Quick Bites,Delivery,1.0,2.0,Mexican
+15023,Chetty's Coffee,Yes,No,Greenwich,3.9/5,43.0, 7022324118,Quick Bites,Delivery,3.0,1.0,Mexican
+6984,Biggies Burger 'n' More,Yes,No,Staten and Ellis Islands,3.8/5,63.0," 7899673165,  9164017799",Cafe,Delivery,6.0,3.0,Snacks
+27962,Ambur Hot Dum Burger,No,No,Lower Manhattan,3.5/5,21.0, 9739695758,Quick Bites,Delivery,1.0,1.0,Italian
+27370,New Friends,Yes,No,Lower Manhattan,3.8/5,273.0,"080 26784129, 080 26912010",Casual Dining,Delivery,7.0,4.0,
+45865,Waffle Magic,No,No,Greenwich,4.2 /5,592.0,080 45128813,Cafe,Dine-out,7.0,2.0,Snacks
+21569,Multi Kitchen,No,No,Lower Manhattan,,0.0, 9741525305,Quick Bites,Dine-out,1.0,2.0,American
+32168,Nuts Over Salads Cafe,Yes,Yes,Tribeca,4.4 /5,208.0,"080 25533344,  7019629831",Cafe,Cafes,7.0,2.0,Snacks
+51435,Best In Klass,Yes,No,Chinatown,3.2 /5,47.0," 6360827238
+ 8029710597",Quick Bites,Dine-out,1.0,1.0,Mexican
+32763,High n Hungry,Yes,No,Lower Manhattan,2.9 /5,95.0,"040 42150606,  9886941212",Delivery,Delivery,2.0,4.0,American
+33275,Al Habibi Restaurant,Yes,No,Lower Manhattan,3.5 /5,17.0, 9611118091,Quick Bites,Delivery,1.0,2.0,American
+41546,Output Bengaluru,No,Yes,Staten and Ellis Islands,4.5 /5,900.0,080 49653064,Pub,Dine-out,7.0,2.0,American
+9699,Chef All Nite,Yes,No,Lower Manhattan,3.9/5,464.0," 9535793969,  8147283784",,Delivery,6.0,2.0,Chinese
+3029,1947,No,Yes,Chelsea,4.1/5,2303.0,"080 41261947,  9739989453",Casual Dining,Delivery,7.0,2.0,American
+4522,Light House Cafe,Yes,No,Staten and Ellis Islands,3.7/5,94.0," 9741033890,  9743686830",Cafe,Desserts,1.0,5.0,Snacks
+26685,Pizza Central,Yes,No,Lower Manhattan,4.1/5,200.0,080 71967538,Quick Bites,Delivery,,1.0,American
+6768,Flavors of America,Yes,No,Staten and Ellis Islands,3.6/5,34.0, 9513397311,Casual Dining,Buffet,1.0,3.0,American
+18936,Dine @ 9 Paratha Corner,Yes,No,Greenwich,3.6/5,33.0," 9380868077,  8192838087",Quick Bites,Dine-out,1.0,2.0,American
+28566,Cafemoto,Yes,No,Tribeca,4.0 /5,201.0," 6360827051,  8129229603",Cafe,Dine-out,7.0,4.0,Snacks
+7183,Kitchen Online,No,No,Chinatown,3.3/5,6.0, 9900380764,,Delivery,1.0,1.0,American
+31124,Drunkling - Sizzlers and Pub,Yes,Yes,Tribeca,4.4 /5,347.0," 8660457440,  8025505542",Casual Dining,Dine-out,7.0,6.0,Chinese
+27638,Tiffin Box,Yes,No,Lower Manhattan,NEW,0.0, 8748866888,Takeaway,Delivery,,,American
+34493,The Biriyani Pedia,Yes,No,Lower Manhattan,4.0 /5,59.0, 9809202588,Quick Bites,Dine-out,4.0,2.0,Italian
+29756,Darshan Paradise Restaurant,Yes,No,Lower Manhattan,3.6 /5,15.0," 9880414009,  8095414009",Quick Bites,Delivery,1.0,2.0,American
+35292,Omleterian,Yes,No,Lower Manhattan,,0.0,,Quick Bites,Delivery,1.0,2.0,American
+7597,Maashpacheez,Yes,No,Staten and Ellis Islands,3.6/5,17.0, 7624836700,Quick Bites,Delivery,1.0,3.0,American
+21164,Maiyas,Yes,No,Chelsea,4.0 /5,1784.0, 9632411352,Quick Bites,Dine-out,7.0,4.0,American
+9843,Food And You,No,No,Tribeca,3.8/5,89.0," 9886360205,  7204347392",Quick Bites,Delivery,,2.0,American
+21079,LIT Gastro Pub,Yes,Yes,Chelsea,3.4 /5,215.0, 9739380630,Pub,Dine-out,7.0,4.0,Chinese
+9344,Grills And Tandoor,Yes,Yes,Tribeca,3.6/5,107.0," 8910378576, 080 43761888",Casual Dining,Delivery,7.0,2.0,American
+21047,Toscano,Yes,Yes,Chelsea,,1137.0,"080 41558423,  7619320074",Casual Dining,Dine-out,7.0,2.0,Italian
+10789,Sri Sharana Basaveshwara Khanavali,No,No,Lower Manhattan,,0.0, 9743806316,Quick Bites,Dine-out,1.0,1.0,Mexican
+32738,Fresh Pressery Cafe,Yes,No,Tribeca,4.1 /5,141.0,080 41724989,Cafe,Delivery,,5.0,Snacks
+10697,Sri Sankara Cafe,Yes,No,Lower Manhattan,3.6/5,26.0, 9986266688,Quick Bites,Dine-out,1.0,1.0,Mexican
+22345,Mr. Parathewala,Yes,No,Chelsea,,0.0, 8884135349,Takeaway,Delivery,,1.0,American
+8989,Asha Tiffins,Yes,No,East Village,4.3/5,278.0, 7619682498,Quick Bites,Delivery,6.0,1.0,Mexican
+45303,Homemade Food,Yes,No,Greenwich,3.8 /5,24.0, 9566785454,Takeaway,Delivery,1.0,1.0,Mexican
+51053,Punjabi by Nature 2.0,Yes,No,Chinatown,4.2 /5,489.0,"080 61224788
+ 7022638801",Casual Dining,Dine-out,7.0,1.0,American
+6800,Spice Boulevard,No,No,Chinatown,3.9/5,90.0," 7619180369,  7349298056",Cafe,Cafes,7.0,3.0,Snacks
+7287,Sultan's Burger,No,No,Staten and Ellis Islands,3.0/5,10.0, 9513777153,Delivery,Delivery,1.0,2.0,Italian
+37328,American Paratha Factory,Yes,No,Lower Manhattan,2.9 /5,24.0, 9108091606,Quick Bites,Dine-out,1.0,1.0,American
+20588,Melt - Eden Park,Yes,Yes,Midtown,4.0/5,347.0, 9606487102,Casual Dining,Delivery,7.0,5.0,American
+22411,The Grillo,Yes,Yes,Chelsea,2.8/5,80.0, 8043940555,Casual Dining,Delivery,1.0,5.0,American
+51209,Chefactory Gold by Flechazo,Yes,No,Chinatown,3.7 /5,355.0, 9513758714,Casual Dining,Dine-out,7.0,2.0,American
+8049,Wok With Chung,No,No,Staten and Ellis Islands,3.8/5,688.0,"080 28540039, 080 28540041",Casual Dining,Dine-out,7.0,2.0,Chinese
+41186,Light House Cafe,No,No,Staten and Ellis Islands,3.6 /5,94.0," 9741033890
+ 9743686830",,Delivery,1.0,5.0,Snacks
+21981,Yum In My Tum,Yes,No,Lower Manhattan,4.2/5,102.0, 9108084789,Quick Bites,Delivery,7.0,4.0,Chinese
+45144,Popat,Yes,No,Greenwich,3.2 /5,43.0, 7676242139,Quick Bites,Delivery,1.0,1.0,American
+31785,Invitation Bar & Restaurant,No,No,Lower Manhattan,3.0 /5,15.0, 9886055270,Bar,Dine-out,1.0,1.0,American
+2771,Hatti Kaapi,Yes,No,Chelsea,4.0/5,89.0,080 40942666,Quick Bites,Delivery,4.0,2.0,Mexican
+18261,SSD Kitchen,No,No,Greenwich,,0.0, 7022208878,Quick Bites,Delivery,1.0,1.0,Italian
+16402,Moti Mahal Delux,Yes,Yes,East Village,4.0/5,558.0," 9844553321,  9742455177",Casual Dining,Delivery,7.0,2.0,American
+19983,Fillers,Yes,No,Lower Manhattan,3.9/5,138.0, 9663577118,Quick Bites,Delivery,6.0,2.0,American
+16153,Chattar Mattar,No,No,East Village,3.5/5,11.0, 7829611611,Quick Bites,Delivery,1.0,2.0,American
+8237,Dil Punjabi,Yes,No,Staten and Ellis Islands,2.6/5,158.0, 9886001722,Quick Bites,Dine-out,1.0,1.0,American
+34016,Hyderabad Biryaani House,Yes,No,Tribeca,4.1 /5,1118.0,"080 65754353
+ 7204344343",Casual Dining,Dine-out,7.0,4.0,Italian
+33365,Shree Thali,No,No,Tribeca,4.1 /5,183.0, 9036220937,Mess,Delivery,7.0,1.0,American
+19817,AM's Cafe Recreate,Yes,No,Lower Manhattan,3.3/5,8.0, 8151994019,Takeaway,Delivery,1.0,2.0,Chinese
+40549,UBCR,No,No,Staten and Ellis Islands,3.5 /5,, 9986654478,Cafe,Cafes,1.0,6.0,Italian
+36810,Popsies,Yes,No,Tribeca,3.9 /5,823.0,"080 65463880
+080 65659336",Casual Dining,Dine-out,7.0,2.0,
+7635,Auntie Fung's,Yes,No,Chinatown,NEW,0.0," 9945751754,  9972987510",Food Court,Delivery,1.0,3.0,Chinese
+41711,Haveli,Yes,No,Staten and Ellis Islands,3.7 /5,61.0, 8494900042,Casual Dining,Dine-out,1.0,3.0,Italian
+17182,Donne Biriyani House,Yes,No,East Village,3.8/5,278.0,"080 68888355,  9620992555",Quick Bites,Dine-out,7.0,1.0,Italian
+1517,Brewz Coffee,Yes,No,Lower Manhattan,3.0/5,61.0,080 41200232,Cafe,Delivery,3.0,1.0,Snacks
+36353,Pakiza Dilli Darbar Restaurant,Yes,No,Lower Manhattan,3.2 /5,13.0, 9391668083,Quick Bites,Delivery,1.0,1.0,Italian
+10549,Awesome Foods,Yes,No,Lower Manhattan,3.7/5,23.0, 8123305294,Quick Bites,Dine-out,1.0,2.0,Chinese
+41543,Barbeque Nation,No,Yes,Staten and Ellis Islands,4.3 /5,1074.0," 8064806060
+18001086060",Casual Dining,Dine-out,7.0,5.0,American
+18925,Om Sai Skanda Nachos Camp,No,No,Greenwich,3.9/5,29.0, 9845578328,Quick Bites,Dine-out,1.0,1.0,Mexican
+41536,Melange - Radisson Blu,No,Yes,Staten and Ellis Islands,4.5 /5,785.0,080 49652492,Fine Dining,Dine-out,7.0,4.0,American
+7267,Chirayu Burger House,No,No,Chinatown,,0.0, 9886903811,Delivery,Delivery,1.0,1.0,Italian
+28410,Om Made Cafe,No,No,Tribeca,4.1 /5,2732.0,"080 43024010, 080 25533369",Cafe,Dine-out,7.0,4.0,Snacks
+32304,Nandhanam Restaurant,Yes,No,East Village,3.8 /5,8.0, 8310884153,Quick Bites,Delivery,1.0,2.0,Mexican
+51431,Green Chillies,No,No,Chinatown,,0.0, 9686555599,Quick Bites,Dine-out,1.0,3.0,American
+278,Gufha - The President Hotel,Yes,Yes,Chelsea,4.1/5,1875.0,"080 41808777,  9900265022",Casual Dining,Delivery,7.0,3.0,American
+34814,Smally's Resto Cafe,Yes,Yes,Tribeca,4.2 /5,1706.0," 7406772442
+ 7406772332",Cafe,Cafes,7.0,5.0,Snacks
+14965,Ideal Kitchen,Yes,No,Greenwich,3.5/5,26.0," 9164863549,  8073560905",Quick Bites,Delivery,1.0,4.0,American
+29442,Bathinda Tandoor,Yes,No,Lower Manhattan,3.8 /5,60.0," 7899987436,  7708528198",Quick Bites,Delivery,1.0,1.0,American
+44752,Ciclo Cafe,Yes,No,Greenwich,4.3 /5,1331.0,"080 48664512
+ 8667642029",Cafe,Cafes,7.0,3.0,Snacks
+7926,Nizam's Burger House,Yes,No,Staten and Ellis Islands,3.9/5,756.0," 8123403000,  9036008357",,Dine-out,5.0,2.0,American
+2460,Sri Lakshmi Perk,Yes,No,Lower Manhattan,2.9/5,255.0," 8970548240,  9739369901",Quick Bites,Dine-out,2.0,1.0,
+3452,Toscano,Yes,Yes,Chelsea,4.3 /5,1161.0,"080 41558423
+ 7619320074",Casual Dining,Dine-out,7.0,2.0,Italian
+21689,Udupi Cafe,No,No,Midtown,,0.0,"080 49557302,  9035853303",Quick Bites,Dine-out,1.0,3.0,Mexican
+30745,Rayalaseema Abhiruchulu,No,No,Lower Manhattan,NEW,0.0, 9742044034,,Delivery,1.0,3.0,American
+23667,Namaste,No,No,Lower Manhattan,NEW,0.0, 7795680954,Quick Bites,Dine-out,1.0,1.0,Mexican
+8616,The Mylapore Cafe,Yes,No,East Village,4.1/5,119.0,080 41472414,Quick Bites,Delivery,5.0,2.0,Mexican
+11027,Willys Top Cafe,Yes,No,Chelsea,4.0/5,310.0," 7795808555, 00 09176703991",Cafe,Dine-out,,3.0,
+35466,Hatti Kaapi,Yes,No,Tribeca,3.9 /5,237.0," 8884247518
+080 26622374",Quick Bites,Delivery,7.0,2.0,Mexican
+50112,Blue Tokai Coffee Roasters,Yes,No,Chinatown,4.0 /5,29.0, 7703938506,Cafe,Cafes,1.0,1.0,Snacks
+18949,Manju's Kitchen,Yes,No,Greenwich,3.3/5,13.0," 6362835588,  6362937794",Quick Bites,Dine-out,1.0,1.0,Italian
+17115,Le Rosa Restaurant,No,No,East Village,3.2/5,4.0," 9206082090,  9961659609",Casual Dining,Dine-out,1.0,3.0,American
+36123,Priya Restaurant,No,No,Chelsea,,0.0," 8970413456
+ 9036000184",Quick Bites,Delivery,1.0,2.0,Mexican
+22690,Sambram,No,No,Midtown,,0.0,"080 26588510,  9741868677",Casual Dining,Delivery,1.0,2.0,Italian
+3020,Vindu Andhra Ruchulu,Yes,No,Chelsea,3.8/5,280.0,"080 22442527,  9900007666",Casual Dining,Delivery,7.0,3.0,Italian
+23152,Hunger Camp,No,Yes,Midtown,4.6/5,,080 49652706,Casual Dining,Dine-out,7.0,4.0,American
+26846,Nachos Plaza,Yes,No,Tribeca,3.8/5,140.0,080 49652583,Quick Bites,Delivery,1.0,4.0,Mexican
+18212,New Leaf Restaurant,Yes,Yes,Greenwich,3.7/5,58.0," 7975837883,  8095555686",Casual Dining,Delivery,1.0,1.0,Chinese
+10977,Fresh Pressery Cafe,Yes,No,Tribeca,4.1/5,137.0,080 41724989,Cafe,Dine-out,7.0,5.0,Snacks
+18810,Blistering Barnacles,No,Yes,Greenwich,3.9/5,1214.0,080 41263332,Pub,,7.0,4.0,Chinese
+16731,Hello Brother Hotel,No,No,East Village,3.4/5,6.0," 8747876806,  8747876056",Quick Bites,Delivery,1.0,2.0,American
+29709,Sector 7 CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,East Village,4.3 /5,1105.0, 8041697171,Cafe,Delivery,7.0,4.0,Snacks
+32538,The Mylapore Cafe,Yes,No,East Village,4.1 /5,121.0,080 41472414,Quick Bites,Delivery,5.0,2.0,Mexican
+9168,Khaja Point,No,No,Lower Manhattan,NEW,0.0, 9886804017,Quick Bites,Delivery,1.0,3.0,American
+20078,Chung Wah Opus,Yes,No,Midtown,3.0/5,57.0,"080 65788688, 080 65788588",Casual Dining,Delivery,3.0,2.0,Chinese
+9690,NY8LIFE,No,No,Lower Manhattan,3.2/5,4.0," 9036060002,  9036060004",Delivery,Delivery,1.0,3.0,American
+22782,Melt - Eden Park,Yes,Yes,Midtown,4.0/5,347.0, 9606487102,Casual Dining,Delivery,7.0,5.0,American
+10547,Bathinda Tandoor,Yes,No,Lower Manhattan,NEW,0.0," 7899987436,  7708528198",Quick Bites,Dine-out,1.0,1.0,American
+31026,Hang10 Resto N Cafe,Yes,No,Lower Manhattan,3.7 /5,101.0," 7353222277,  7353444477",Cafe,Desserts,5.0,3.0,Snacks
+17934,Suvaai Restaurant,Yes,No,Greenwich,3.3/5,11.0,"080 25200060,  9448558083",Quick Bites,Delivery,1.0,1.0,Mexican
+17508,Napoli Italian Bistro,Yes,Yes,East Village,4.1/5,,"080 22580999,  9343011648",Casual Dining,Pubs and bars,,4.0,Italian
+21742,Bottle Breacher,No,Yes,Midtown,4.2/5,1197.0, 9482512009,Casual Dining,Drinks & nightlife,7.0,2.0,Italian
+16069,Brajwasi Catering Service,No,No,East Village,,0.0," 9343707430,  9945087734",Delivery,Delivery,1.0,2.0,American
+17534,Empire Restaurant,Yes,No,Greenwich,4.2/5,8176.0,080 45128757,Casual Dining,Buffet,7.0,4.0,American
+32977,Kopper Kadai,Yes,Yes,Tribeca,4.1 /5,1697.0," 8147957515,  8951958515",Casual Dining,Delivery,7.0,2.0,American
+27542,Tim Tai,Yes,Yes,Tribeca,4.4/5,3673.0," 7204198888,  9110635136",Casual Dining,Delivery,7.0,7.0,Chinese
+33961,Big Wong XL,No,Yes,Tribeca,4.5 /5,688.0, 9902667866,Casual Dining,Dine-out,7.0,4.0,Chinese
+30174,Shree Thali,No,No,Tribeca,4.1 /5,183.0, 9036220937,,Delivery,7.0,1.0,American
+42155,Pelican,No,No,Staten and Ellis Islands,3.4 /5,20.0,"065535 43666
+065535 43666",Pub,,1.0,2.0,American
+27676,Midnight Express,No,No,Tribeca,2.8/5,26.0," 9538100092,  9538100094",Takeaway,Delivery,1.0,3.0,American
+19520,Kullad Cafe,Yes,No,Lower Manhattan,3.9/5,331.0," 8861570148,  9972089231",Cafe,Delivery,7.0,4.0,American
+18886,The Chennai Express,No,No,Greenwich,3.8/5,166.0,080 68888856,Quick Bites,Dine-out,5.0,2.0,Mexican
+8889,Rajdhani Thali Restaurant,Yes,Yes,Midtown,3.9/5,885.0," 9886022552, 080 41126111",Casual Dining,Delivery,7.0,1.0,American
+3999,Napoli Italian Bistro,Yes,Yes,East Village,4.1/5,1056.0,"080 22580999,  9343011648",Casual Dining,Delivery,7.0,4.0,Italian
+51443,Star Restaurant,No,No,Chinatown,,0.0, 9845098066,Quick Bites,Dine-out,1.0,3.0,Mexican
+8042,Nellore Mess & Tiffens,No,No,Chinatown,3.5/5,16.0, 9739928360,Mess,Dine-out,1.0,2.0,Mexican
+17686,Dindigul Thalappakatti,Yes,No,Greenwich,4.3/5,289.0," 8042297250,  8042297350",Casual Dining,Delivery,6.0,4.0,Italian
+10167,Samosa Singh,Yes,No,East Village,,0.0,080 43334333,Quick Bites,Delivery,1.0,2.0,American
+32119,Empire Restaurant,Yes,No,Tribeca,4.1 /5,6948.0,080 45128675,Casual Dining,Buffet,7.0,4.0,American
+32735,Paratha Plaza,Yes,No,Tribeca,3.9 /5,41.0,080 40978174,Quick Bites,Delivery,1.0,1.0,American
+17040,Cafe Mondo,Yes,No,East Village,3.6/5,484.0,080 49534335,Cafe,Dine-out,7.0,4.0,Snacks
+22768,The Little Kitchen,No,No,Chelsea,3.8/5,27.0, 7026222245,Quick Bites,Delivery,1.0,2.0,Chinese
+8660,Naati Manae,Yes,Yes,Tribeca,3.9/5,484.0,"080 41116661, 080 41136661",Casual Dining,Delivery,7.0,4.0,American
+20658,Eat Sleep Eat Repeat,Yes,No,Tribeca,3.5/5,16.0, 7022358500,Quick Bites,Delivery,1.0,3.0,Chinese
+19878,Kaapi Kendra,Yes,No,Chelsea,3.7/5,16.0, 8277264556,Quick Bites,Delivery,1.0,1.0,Mexican
+21161,Chung Wah,Yes,No,Chelsea,3.7 /5,330.0," 9108945477,  9108945277",Casual Dining,Dine-out,7.0,3.0,Chinese
+18767,Zaica Dine & Wine,Yes,Yes,Greenwich,4.0/5,1013.0," 9731333833, 080 41201745",Casual Dining,Dine-out,,1.0,American
+18954,Sri Lakshmi Darshini Canteen,No,No,Greenwich,,0.0, 9742837448,Quick Bites,Dine-out,1.0,1.0,Mexican
+16487,American Paratha Factory,Yes,No,East Village,2.7/5,140.0," 9108529166,  7338491606",Quick Bites,Delivery,7.0,1.0,American
+21753,Barbeque Nation,No,Yes,Midtown,4.7/5,3855.0, 8064806060,Casual Dining,Buffet,7.0,5.0,American
+44760,Waffle Magic,No,No,Greenwich,4.2 /5,592.0,080 45128813,Cafe,Cafes,7.0,2.0,Snacks
+23216,Nouvelle Garden,No,No,Midtown,3.7/5,203.0," 9900022134,  9900022136",Casual Dining,Dine-out,7.0,3.0,American
+30776,Sree Food Paradise,No,No,Lower Manhattan,,0.0, 8951458076,Quick Bites,Delivery,1.0,2.0,American
+10650,Ambur Dum Burger,No,No,Lower Manhattan,,0.0," 8970895965,  8553422626",Quick Bites,Dine-out,1.0,,Italian
+37470,Hello Dish Biriyani,No,No,Lower Manhattan,,0.0," 9986491549
+ 8111924516",Quick Bites,,1.0,1.0,Italian
+18207,Sunny Side Bistro,No,No,Greenwich,3.7/5,69.0, 9916842131,Cafe,Delivery,1.0,2.0,Snacks
+9891,Pakiza Dilli Darbar Restaurant,Yes,No,Lower Manhattan,3.2/5,13.0, 9391668083,Quick Bites,Delivery,1.0,1.0,Italian
+36849,Grills And Tandoor,Yes,Yes,Tribeca,3.7 /5,114.0," 8910378576
+080 43761888",Casual Dining,Dine-out,7.0,2.0,American
+17883,Imli,Yes,No,Greenwich,3.8/5,1837.0,080 45128802,Casual Dining,Delivery,,2.0,American
+30774,RK Fast Food,No,No,Lower Manhattan,,0.0, 8919293202,Quick Bites,Delivery,1.0,2.0,Mexican
+20179,Omleterian,Yes,No,Lower Manhattan,,0.0,,Quick Bites,Delivery,1.0,2.0,American
+27356,Still Sipping,Yes,Yes,East Village,,0.0, 8971657774,Cafe,Delivery,1.0,3.0,Snacks
+10653,Omleterian,Yes,No,Lower Manhattan,,,,Quick Bites,Dine-out,1.0,2.0,American
+23841,Coconut Grove,No,No,Midtown,3.4/5,97.0,"080 48146882,  9945058354",Casual Dining,Drinks & nightlife,6.0,4.0,Mexican
+3013,Polamma's Mess,Yes,No,Lower Manhattan,4.2/5,185.0, 9743060222,Mess,Delivery,7.0,3.0,American
+8332,Om Made Cafe,No,No,Tribeca,4.0/5,2729.0,"080 43024010, 080 25533369",Cafe,Cafes,7.0,4.0,Snacks
+29384,Birinz,Yes,No,East Village,4.3 /5,83.0,080 49653397,Casual Dining,Delivery,7.0,3.0,Italian
+40630,American Food,Yes,No,Staten and Ellis Islands,,0.0, 7624863271,Quick Bites,Delivery,1.0,2.0,American
+17032,Sunny Cafe & Kitchen,Yes,Yes,East Village,3.8/5,499.0,080 49653055,Cafe,Dine-out,7.0,4.0,Snacks
+3613,Priya Restaurant,No,No,Chelsea,,0.0," 8970413456,  9036000184",Quick Bites,Dine-out,1.0,2.0,Mexican
+23638,LIT Gastro Pub,Yes,Yes,Chelsea,3.7/5,205.0, 9739380630,Pub,Dine-out,7.0,4.0,Chinese
+8465,The Biriyani Pedia,Yes,No,Lower Manhattan,3.9/5,56.0, 9809202588,Quick Bites,Delivery,4.0,1.0,Italian
+22692,Uttara Karanataka Mess,No,No,Midtown,3.3/5,5.0, 8746939143,Mess,Delivery,,1.0,Mexican
+41850,Chatorezz,Yes,No,Staten and Ellis Islands,3.6 /5,26.0," 8050861849
+ 6202983092",Quick Bites,Dine-out,1.0,2.0,American
+50644,The Lighthouse Cafe,No,No,Chinatown,3.6 /5,21.0, 9916235660,Casual Dining,Delivery,1.0,2.0,American
+41127,Parrattha Ssinghh,Yes,No,Staten and Ellis Islands,4.1 /5,48.0, 7483073451,Quick Bites,Delivery,3.0,1.0,American
+21469,Birthday Buddy,No,No,Midtown,,0.0," 8970900910,  8880007484",Fine Dining,Dine-out,1.0,3.0,American
+29014,New Udupi Grand,Yes,No,East Village,3.6 /5,36.0," 9591149245,  8452928697",Quick Bites,Dine-out,1.0,4.0,Mexican
+11012,Starbucks,No,No,Midtown,4.2/5,386.0," 9663994264,  8884678564",,Dine-out,7.0,2.0,Snacks
+17677,Chowpatty,Yes,No,Greenwich,3.9/5,924.0," 9916820043, 080 48908122",Quick Bites,Delivery,7.0,3.0,American
+17522,Peacock,Yes,Yes,Greenwich,3.9/5,847.0,080 49653000,Casual Dining,Buffet,7.0,3.0,American
+35834,Royal View Restaurant,Yes,No,Lower Manhattan,3.7 /5,26.0,"080 41133114
+080 41233571",Casual Dining,Delivery,1.0,3.0,American
+29853,Speedbreaker,Yes,No,Lower Manhattan,3.4 /5,15.0," 9980399477,  8660933013",Quick Bites,Delivery,1.0,1.0,American
+27595,Chef All Nite,Yes,No,Lower Manhattan,3.8/5,464.0," 9535793969,  8147283784",,Delivery,6.0,2.0,Chinese
+48984,Petoo,Yes,No,East Village,4.1 /5,105.0, 7899670003,Quick Bites,Delivery,5.0,3.0,American
+51060,Herbs & Spices,Yes,Yes,Chinatown,4.0 /5,1116.0," 9945420242
+ 9741703242",Casual Dining,Dine-out,7.0,2.0,Italian
+15162,Gundappa Donne Burger,No,No,Greenwich,2.5/5,90.0, 9880023409,Quick Bites,Delivery,6.0,1.0,Italian
+7587,Canopus Multicuisine Restaurant,Yes,No,Staten and Ellis Islands,NEW,0.0, 7349423232,Casual Dining,Delivery,1.0,4.0,American
+50686,F5,No,No,Chinatown,3.2 /5,4.0, 8073637562,Quick Bites,Delivery,1.0,5.0,American
+27779,Ganesh Restaurant,Yes,No,Tribeca,3.7/5,51.0," 9845177981,  8971812966",Quick Bites,Delivery,1.0,2.0,Chinese
+20085,Burger Magic,Yes,No,Lower Manhattan,3.5/5,31.0," 9986583274,  9886766087",Quick Bites,Delivery,1.0,2.0,American
+34619,What the Food,No,No,Lower Manhattan,3.6 /5,38.0," 9739019190
+ 9845040679",Quick Bites,Dine-out,,3.0,American
+26790,Vijayalakshmi Veg,Yes,No,Chelsea,3.9/5,99.0,080 49653105,Quick Bites,Delivery,4.0,1.0,Mexican
+3945,Perk Estd 1986 Delhi,Yes,Yes,Staten and Ellis Islands,4.4/5,1209.0, 9606463631,Casual Dining,Delivery,7.0,1.0,American
+16496,South Tiffins,Yes,No,East Village,3.6/5,144.0, 8095500014,Quick Bites,Delivery,5.0,1.0,Mexican
+36299,Hyderabadi Burger House,No,No,Lower Manhattan,,0.0,"00 08041160999
+ 9343377779",Quick Bites,Delivery,1.0,1.0,Italian
+11351,New Select Hotel,No,No,Chelsea,,0.0, 9739001272,Quick Bites,Dine-out,1.0,1.0,Mexican
+15812,Caffe Pascucci,Yes,Yes,East Village,4.1/5,720.0, 8043758922,Cafe,Cafes,7.0,5.0,Snacks
+45820,Urban Tamaasha,Yes,Yes,Greenwich,4.1 /5,886.0,080 49653528,Casual Dining,Dine-out,7.0,3.0,American
+26929,Dr. Shawarma,Yes,No,East Village,3.5/5,4.0, 9632680729,Quick Bites,Delivery,1.0,3.0,American
+17543,Raaga,Yes,Yes,Greenwich,3.8/5,297.0,"080 25250235,  9341217011",Casual Dining,Buffet,7.0,3.0,American
+41766,Sri Vishnu Veg,Yes,No,Staten and Ellis Islands,3.5 /5,14.0," 8971112280
+ 9964394099",Quick Bites,Dine-out,1.0,1.0,Mexican
+45796,Dindigul Thalappakatti,Yes,No,Greenwich,4.3 /5,328.0," 8042297250
+ 8042297350",Casual Dining,Dine-out,6.0,4.0,Italian
+31777,Kallummakkaya,Yes,No,Lower Manhattan,,0.0, 9605141138,Quick Bites,Dine-out,1.0,2.0,Mexican
+44713,Peacock,Yes,Yes,Greenwich,4.0 /5,861.0,080 49653000,Casual Dining,Buffet,7.0,3.0,American
+2528,Grazers,Yes,Yes,Chelsea,3.9/5,291.0,080 26650668,Cafe,Cafes,7.0,5.0,Snacks
+40971,Akshara,Yes,No,Staten and Ellis Islands,4.0 /5,136.0,080 49653312,Casual Dining,Delivery,7.0,3.0,Mexican
+7957,Meghana Grand,Yes,No,Chinatown,3.5/5,131.0," 8028414144,  9686274389",Casual Dining,Dine-out,1.0,2.0,Italian
+23383,Donne Biriyani Mane,No,No,Midtown,,0.0, 9901365544,Quick Bites,Dine-out,1.0,2.0,Italian
+45294,Good Meals,Yes,No,Greenwich,,0.0," 7405758528
+ 9945586781",Takeaway,Delivery,1.0,2.0,American
+51686,Windmills Craftworks,No,No,Chinatown,4.6 /5,5954.0, 8880233322,Microbrewery,Pubs and bars,7.0,3.0,American
+2852,Maiyas,Yes,No,Chelsea,4.0/5,1778.0, 9632411352,Quick Bites,Delivery,7.0,4.0,American
+17025,Sufra Restaurant,Yes,Yes,East Village,3.7/5,112.0," 8049713233,  9111113936",Casual Dining,Dine-out,5.0,2.0,American
+34976,The Biriyani Pedia,Yes,No,Lower Manhattan,4.0 /5,59.0, 9809202588,Quick Bites,Delivery,4.0,2.0,Italian
+457,Subz,Yes,Yes,Chelsea,4.2/5,2022.0,080 49652607,Casual Dining,Delivery,7.0,2.0,American
+16728,Kakatiya's,Yes,No,East Village,3.1/5,6.0, 9900026091,Quick Bites,Delivery,1.0,2.0,Mexican
+10428,El Salver,Yes,Yes,Lower Manhattan,3.9/5,74.0, 9916802277,Casual Dining,Dine-out,1.0,6.0,Italian
+51694,Whitefield Social,Yes,No,Chinatown,4.1 /5,2773.0," 8049626661
+ 9886252234",Pub,Pubs and bars,7.0,5.0,American
+8959,Chicken Magic,Yes,No,Lower Manhattan,3.7/5,209.0, 8095577245,,Delivery,1.0,2.0,Chinese
+41216,Swad-Deshi Restaurant,Yes,No,Staten and Ellis Islands,3.5 /5,13.0, 8095033335,Quick Bites,Delivery,1.0,2.0,Mexican
+32846,Mudpipe Cafe,Yes,Yes,Lower Manhattan,4.5 /5,1879.0, 9631220007,Cafe,Delivery,7.0,3.0,Snacks
+34965,Mysuru Coffee Thindi,Yes,No,Chelsea,4.1 /5,312.0,,Quick Bites,Delivery,7.0,2.0,Mexican
+1023,Aramane Donne Biriyani,Yes,No,Lower Manhattan,3.9/5,189.0," 7411877401,  7829588445",Quick Bites,Delivery,2.0,2.0,Italian
+4089,Ustaad Burger,Yes,No,Staten and Ellis Islands,,0.0," 9108491097,  8043705352",Delivery,Delivery,1.0,1.0,Italian
+9933,Akshaya Grand,Yes,No,Lower Manhattan,3.4/5,29.0," 9844508520, 080 26682939",Casual Dining,Delivery,1.0,1.0,American
+37367,Sri Vishnupriya,No,No,Lower Manhattan,3.0 /5,67.0, 9743747785,Quick Bites,Dine-out,2.0,3.0,Mexican
+7918,Barbeque Nation,No,No,Chinatown,3.8/5,32.0, 9071569991,Casual Dining,Dine-out,1.0,5.0,American
+30789,RGS Ambur briyani,No,No,Lower Manhattan,,0.0, 8095566413,Quick Bites,Delivery,1.0,2.0,Italian
+7533,Chawla's 2 Online.com,Yes,No,Staten and Ellis Islands,,0.0, 9910009994,Delivery,Delivery,1.0,1.0,American
+11105,Grills And Tandoor,Yes,Yes,Tribeca,3.6/5,107.0," 8910378576, 080 43761888",Casual Dining,Dine-out,,2.0,American
+35587,HOTEL VKM,Yes,No,Lower Manhattan,,0.0," 9880622209
+ 7411290003",Quick Bites,Delivery,1.0,1.0,Mexican
+8353,Fresh Pressery Cafe,Yes,No,Tribeca,4.1/5,137.0,080 41724989,Cafe,Cafes,7.0,5.0,Snacks
+27658,Hunan,No,Yes,Tribeca,,2246.0,080 25520154,Casual Dining,Delivery,7.0,3.0,Chinese
+16112,Spicy Menu,No,No,East Village,,0.0, 9538550123,Quick Bites,Delivery,1.0,2.0,Chinese
+2949,Chulha Chauki Da Perk,Yes,No,Midtown,4.2/5,2353.0,"080 41204283,  7349738056",Casual Dining,Delivery,7.0,1.0,American
+21293,Chulha Chauki Da Perk,Yes,No,Midtown,4.3 /5,2447.0,"080 41204283,  7349738056",Casual Dining,Dine-out,7.0,1.0,American
+16855,Third Wave Coffee Roasters,Yes,No,East Village,4.2/5,141.0," 7349791061,  9986625007",Cafe,Desserts,6.0,2.0,Snacks
+31125,The Flying Trapeze,No,Yes,Tribeca,NEW,0.0,080 49652426,Lounge,Dine-out,1.0,3.0,American
+41297,Chawla's 2 Online.com,Yes,No,Staten and Ellis Islands,,0.0, 9910009994,Delivery,Delivery,1.0,1.0,American
+8659,The House Of Paratha,Yes,No,Tribeca,3.7/5,58.0,"080 25505318,  9886077960",Quick Bites,Delivery,1.0,1.0,American
+7621,Beyond Elements,Yes,Yes,Chinatown,4.1/5,859.0,080 48500777,Casual Dining,Delivery,7.0,4.0,Snacks
+21766,The Pavillion,No,No,Midtown,,43.0,"080 42456060,  9900014132",Casual Dining,Buffet,1.0,4.0,American
+18548,Bhikaram Chandmal Bhujiawala,No,No,Greenwich,3.0/5,41.0,"080 22976861,  9341462534",Quick Bites,Desserts,1.0,2.0,American
+10567,Pizza Central,Yes,No,Lower Manhattan,4.0/5,199.0, 9731100002,Quick Bites,Dine-out,5.0,1.0,American
+7886,Windmills Craftworks,No,No,Chinatown,4.6/5,5890.0, 8880233322,Microbrewery,Dine-out,7.0,3.0,American
+22415,PK Perk,Yes,No,Staten and Ellis Islands,NEW,0.0, 9945398372,Dhaba,Delivery,1.0,3.0,American
+9196,Sector 7 CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,East Village,4.3/5,1101.0, 8041697171,Cafe,Delivery,7.0,4.0,Snacks
+23370,Vinaya Cafe,Yes,No,Midtown,3.7/5,55.0,"080 41233313,  7022281100",Quick Bites,Dine-out,2.0,3.0,Mexican
+16173,Best Burger,No,No,East Village,,0.0, 8971042098,Quick Bites,Delivery,1.0,3.0,American
+27730,Jagan's Hotel,No,No,East Village,,0.0, 9900044424,Quick Bites,Delivery,1.0,2.0,Mexican
+45168,Ideal Kitchen,Yes,No,Greenwich,3.5 /5,26.0," 9164863549
+ 8073560905",Quick Bites,Delivery,1.0,4.0,American
+34482,Al Hayath,No,No,Lower Manhattan,3.5 /5,, 9342577103,Quick Bites,Dine-out,1.0,2.0,American
+8076,S.M.S.Evening Fast Food,No,No,Chinatown,3.4/5,10.0, 9448171435,Quick Bites,Dine-out,1.0,2.0,Italian
+3492,Golden Oak - La Marvella Sarovar Premiere Hotel,No,Yes,Chelsea,4.0/5,370.0,080 49653191,Casual Dining,Dine-out,7.0,4.0,American
+4081,Foxtrot,Yes,Yes,Staten and Ellis Islands,4.4/5,1146.0," 9108136001,  9108136003",Pub,Delivery,7.0,4.0,American
+19920,Cross Road Cafe,Yes,No,Chelsea,3.9/5,91.0,080 41247022,Cafe,Delivery,7.0,3.0,Snacks
+9538,Hungry Mates,No,No,Lower Manhattan,,0.0, 7875480488,Quick Bites,Delivery,1.0,1.0,American
+51085,Noodle Bar,Yes,Yes,Chinatown,4.0 /5,1070.0,080 67266466,Casual Dining,Dine-out,7.0,2.0,Chinese
+3502,Euki,Yes,Yes,Chelsea,4.1/5,553.0,080 41315550,Casual Dining,Dine-out,7.0,2.0,Italian
+8777,Sri Sapana Perk,Yes,No,Lower Manhattan,3.3/5,9.0, 7411562150,Quick Bites,Delivery,1.0,1.0,American
+19815,Ambur Star Dum Burger,Yes,No,Chelsea,3.4/5,17.0," 7200110202,  9840017416",Quick Bites,Delivery,1.0,1.0,Italian
+10740,Salkara Malabar Kitchen,No,No,Lower Manhattan,NEW,0.0, 7975022318,Quick Bites,Dine-out,1.0,3.0,Mexican
+22682,North American Meals,No,No,Midtown,3.2/5,5.0, 9663636123,Takeaway,Delivery,1.0,1.0,American
+23179,Mango Greens,No,Yes,Midtown,3.9/5,48.0," 9880863789, 080 26851030",Casual Dining,Dine-out,1.0,3.0,American
+17006,Rashtrakutas,Yes,Yes,East Village,4.0/5,403.0," 8884459955,  8884495599",Casual Dining,Dine-out,7.0,3.0,Mexican
+20732,It's My Meal Food Service,No,No,East Village,,0.0, 9845972713,Delivery,Delivery,1.0,2.0,American
+37468,Karnataka Biriyani Centre,No,No,Chelsea,,0.0," 9902593411
+ 8147118457",Quick Bites,Dine-out,1.0,1.0,Italian
+28997,Dindigul Time Pass Restaurant,Yes,No,East Village,3.2 /5,115.0," 7795012021,  9686612009",Casual Dining,Dine-out,1.0,4.0,Mexican
+22528,Nanna Munna Paratha House,Yes,No,Lower Manhattan,4.0/5,109.0," 8088120161,  9738720798",Quick Bites,Delivery,2.0,1.0,American
+18776,Raaga,Yes,Yes,Greenwich,3.8/5,,"080 25250235,  9341217011",Casual Dining,Dine-out,7.0,3.0,American
+21394,Namma Banashankari Donne Burger,Yes,No,Midtown,4.1 /5,101.0, 8123292275,Quick Bites,Dine-out,1.0,2.0,Italian
+8650,Nanna Munna Paratha House,Yes,No,Lower Manhattan,4.0/5,108.0," 8088120161,  9738720798",Quick Bites,Delivery,2.0,1.0,American
+19396,Sattvam,No,No,Midtown,4.3/5,357.0,"080 26595000,  9483275526",Casual Dining,Buffet,7.0,2.0,American
+40901,Alankar Restaurant,No,No,Staten and Ellis Islands,NEW,0.0, 9791238888,Casual Dining,Delivery,1.0,3.0,Mexican
+2790,Mudpipe Cafe,Yes,Yes,Lower Manhattan,4.5/5,1872.0, 9631220007,Cafe,Delivery,7.0,3.0,Snacks
+31875,Mast Burger,No,No,Lower Manhattan,,0.0,,Quick Bites,Dine-out,1.0,2.0,Italian
+35410,South Tiffins,Yes,No,East Village,3.5 /5,144.0, 8095500014,Quick Bites,Delivery,5.0,1.0,Mexican
+37457,Two States,No,No,Lower Manhattan,3.4 /5,5.0, 8618040055,Quick Bites,Dine-out,1.0,4.0,American
+50167, Palace,Yes,Yes,Chinatown,3.8 /5,,080 49653279,Quick Bites,Delivery,3.0,4.0,Mexican
+29432,South Tiffins,Yes,No,East Village,3.6 /5,144.0, 8095500014,Quick Bites,Delivery,5.0,1.0,Mexican
+27318,Anika's America Kitchen,Yes,No,East Village,3.3/5,5.0, 9538270610,Delivery,Delivery,1.0,2.0,Italian
+7489,The Dragon Express,Yes,No,Chinatown,,0.0,080 67425009,Quick Bites,Delivery,1.0,1.0,Chinese
+29601,Smally's Resto Cafe,Yes,Yes,Tribeca,,1704.0," 7406772442,  7406772332",Cafe,Delivery,7.0,5.0,Snacks
+37420,Pakiza Dilli Darbar Restaurant,Yes,No,Lower Manhattan,3.2 /5,13.0, 9391668083,Quick Bites,Dine-out,1.0,1.0,Italian
+35677,Swaadam Veg,Yes,No,Lower Manhattan,3.6 /5,34.0, 8049994999,Casual Dining,Delivery,1.0,2.0,Mexican
+30505,Invitation Bar & Restaurant,No,No,Lower Manhattan,3.0 /5,15.0, 9886055270,Bar,Delivery,1.0,1.0,American
+11272,Rotti Mane,No,No,Chelsea,3.6/5,13.0, 8105590665,Quick Bites,Dine-out,1.0,1.0,Mexican
+50767,Epic Burger,No,No,Chinatown,,0.0, 8867591599,Takeaway,Delivery,1.0,2.0,Italian
+1459,Woody's,Yes,No,Midtown,2.6/5,208.0,"080 26490999, 080 26490888",Casual Dining,Delivery,7.0,3.0,Chinese
+2440,Biriyani Angadi,No,No,Lower Manhattan,3.2/5,7.0, 9663266639,Quick Bites,Dine-out,1.0,1.0,Italian
+32810,Sri Srinivas Park Hotel,Yes,No,Lower Manhattan,NEW,0.0, 8095956143,Quick Bites,Delivery,1.0,2.0,Mexican
+14696,Bathinda Dine,Yes,No,Greenwich,4.1/5,735.0," 8048515558,  8296600145",Casual Dining,Delivery,7.0,1.0,American
+15804,Here & Now,No,No,East Village,4.6/5,1580.0, 9108790611,Cafe,Cafes,7.0,4.0,Snacks
+16784,Grigliato,Yes,No,East Village,3.9/5,716.0,"080 25726660, 080 65704412",Casual Dining,Delivery,,4.0,Italian
+9792,Pensiri Cafe,Yes,No,East Village,3.5/5,48.0, 8867456453,,Delivery,1.0,1.0,American
+17298,Serene Restaurant,No,No,East Village,,0.0,080 42174555,Quick Bites,Dine-out,1.0,1.0,American
+23423,Padosi Apke Apne,No,No,Midtown,NEW,0.0," 8277759447,  8041204747",Quick Bites,Dine-out,1.0,3.0,Mexican
+8846,Biggies Burger 'n' More,Yes,No,Lower Manhattan,3.8/5,208.0," 8041103328,  9986123444",Cafe,Delivery,7.0,3.0,Snacks
+1177,Momo Jojo,Yes,No,Midtown,4.3/5,539.0, 9513808501,Quick Bites,Delivery,7.0,3.0,Chinese
+41809,Zeeshan,Yes,No,Staten and Ellis Islands,3.6 /5,92.0, 9741918559,Quick Bites,Dine-out,1.0,4.0,American
+2373,Udupi Cafe,No,No,Midtown,,0.0,"080 49557302,  9035853303",Quick Bites,Dine-out,1.0,3.0,Mexican
+41459,Cafe Coffee Day,Yes,No,Staten and Ellis Islands,2.9 /5,12.0,18001025093,Cafe,Desserts,1.0,2.0,Snacks
+23222,The Punjabi Rasoi,No,No,Midtown,NEW,0.0,080 42085222,Casual Dining,Dine-out,1.0,1.0,American
+29389,Kullad Cafe,Yes,No,Lower Manhattan,3.9 /5,333.0," 8861570148,  9972089231",Cafe,Delivery,7.0,4.0,American
+30042,Eshanya,Yes,Yes,Chelsea,4.1 /5,1082.0,"080 26531155,  8884420925",Casual Dining,Delivery,7.0,2.0,American
+34400,Lets cafe,No,No,Tribeca,3.5 /5,6.0, 9573819444,Quick Bites,Dine-out,1.0,2.0,Chinese
+37393,Mast Burger,No,No,Lower Manhattan,,0.0,,Quick Bites,Dine-out,1.0,2.0,Italian
+28954,Biriyani Zone,Yes,No,East Village,3.9 /5,670.0," 9980000887,  9980000744",Casual Dining,Dine-out,7.0,4.0,Italian
+19859,Behrouz Burger,Yes,No,Midtown,4.0/5,190.0," 7022260664,  7022260679",Delivery,Delivery,7.0,1.0,Italian
+20069,Ammus Hot N Cool,Yes,No,Lower Manhattan,3.4/5,84.0, 7829389148,Quick Bites,Delivery,,2.0,American
+21172,Vakulaa Veg Restaurant,Yes,No,Chelsea,3.9 /5,53.0,080 26659009,Quick Bites,Dine-out,5.0,2.0,Mexican
+19687, 99 Variety Nachos,Yes,No,Chelsea,3.6/5,38.0, 7899689049,,Delivery,1.0,1.0,Mexican
+50668,Ruchir Restaurant,No,No,Chinatown,,0.0, 9686138729,Quick Bites,Delivery,1.0,1.0,American
+9624,Murali Military hotel,No,No,Lower Manhattan,NEW,0.0, 9019396555,Quick Bites,Delivery,1.0,2.0,Italian
+22009,Stories,Yes,Yes,Midtown,4.2/5,2206.0,080 49653116,Pub,Delivery,7.0,4.0,American
+19336,Perk - Estd 1986 Delhi,Yes,Yes,Greenwich,4.4/5,1420.0,"080 48536713,  8884498122",Casual Dining,Pubs and bars,7.0,1.0,American
+33949,Tim Tai,Yes,Yes,Tribeca,4.4 /5,3677.0," 7204198888
+ 9110635136",Casual Dining,Dine-out,7.0,7.0,Chinese
+20028,Drunkling - Sizzlers and Pub,Yes,Yes,Tribeca,4.4/5,344.0," 8660457440,  8025505542",Casual Dining,Delivery,7.0,6.0,Chinese
+18680,Bhartiya Jalpan,No,No,Greenwich,4.1/5,1075.0," 9686443672, 080 48525797",Casual Dining,Dine-out,7.0,3.0,American
+7963,Starbucks,No,No,Chinatown,3.9/5,,,Cafe,Dine-out,1.0,2.0,Snacks
+35613,Euki,Yes,Yes,Chelsea,4.1 /5,553.0,080 41315550,Casual Dining,Delivery,7.0,2.0,Italian
+30498,Upahara Johnson,No,No,Chelsea,2.9 /5,25.0,080 26541133,Quick Bites,Delivery,1.0,3.0,Mexican
+29243,Drunkling - Sizzlers and Pub,Yes,Yes,Tribeca,4.4 /5,347.0," 8660457440,  8025505542",Casual Dining,Drinks & nightlife,7.0,6.0,Chinese
+18906,Ambur Biriyani,No,No,Greenwich,3.5/5,41.0," 9980830833,  9019264461",Quick Bites,Dine-out,1.0,1.0,Italian
+8295,The Onyx - The HHI Select Bengaluru,No,No,Midtown,3.3/5,177.0," 9742281239,  8884404894",Casual Dining,Buffet,7.0,3.0,American
+16608,Garage Food Company,Yes,No,East Village,3.8/5,43.0,080 49722220,Quick Bites,Delivery,1.0,2.0,Chinese
+8803,Pizza Central,Yes,No,Lower Manhattan,4.0/5,199.0, 9731100002,Quick Bites,Delivery,5.0,1.0,American
+18527,Lahe Lahe Santhe,No,No,Greenwich,3.7/5,17.0, 9886294444,Cafe,Desserts,1.0,2.0,Snacks
+2679,Vakulaa Veg Restaurant,Yes,No,Chelsea,3.9/5,49.0,080 26659009,Quick Bites,Delivery,,2.0,Mexican
+34286,Village Donne Burger,Yes,No,Tribeca,3.3 /5,50.0, 9880187342,Quick Bites,Dine-out,1.0,1.0,Italian
+17188,The Rasaganga,Yes,No,East Village,3.9/5,163.0, 8197399958,Quick Bites,Dine-out,3.0,4.0,Mexican
+50520,Izakaya Gastro Pub,Yes,Yes,Chinatown,3.8 /5,128.0," 7625087121
+ 8050587483",Bar,Delivery,7.0,3.0,American
+33957,Kobe Sizzlers,No,Yes,Tribeca,4.1 /5,1798.0,"080 49589249
+ 9901299432",Casual Dining,Dine-out,7.0,4.0,American
+29012,Al Hayath,No,No,Lower Manhattan,3.5 /5,17.0, 9342577103,Quick Bites,Dine-out,1.0,2.0,American
+26837,Smally's Resto Cafe,Yes,Yes,Tribeca,4.2/5,1701.0," 7406772442,  7406772332",Cafe,Delivery,7.0,5.0,Snacks
+32108,Buff Buffet Buff,Yes,Yes,Tribeca,4.5 /5,3163.0,080 45128765,Casual Dining,Buffet,7.0,5.0,American
+10382,Cafe Coffee Day,No,No,Chelsea,3.5 /5,7.0, 9379467259,Cafe,Desserts,1.0,2.0,Snacks
+50650,Spice Boulevard,No,No,Chinatown,3.9 /5,89.0," 7619180369
+ 7349298056",Cafe,Delivery,7.0,3.0,Snacks
+19431,Cross Road Cafe,Yes,No,Chelsea,3.9/5,91.0,080 41247022,Cafe,Cafes,7.0,3.0,Snacks
+20851,Royal's Burger,Yes,No,Lower Manhattan,,, 9980871513,Quick Bites,Delivery,1.0,1.0,Italian
+15892,Shanmukha,Yes,No,East Village,4.0/5,987.0,080 49653004,Casual Dining,Delivery,7.0,4.0,Italian
+22340,Happy Eats,Yes,No,Midtown,NEW,0.0,080 40989787,Delivery,Delivery,1.0,2.0,American
+19611,Mahesh Friends Food Center,Yes,No,Lower Manhattan,2.9/5,132.0, 9731081364,Quick Bites,Delivery,1.0,2.0,Chinese
+20469,Halli Rotti Manne,No,No,Chelsea,3.4/5,9.0, 9008829029,Quick Bites,Delivery,1.0,1.0,Mexican
+44814,Sri Udupi Park,Yes,No,Greenwich,4.2 /5,781.0," 9945977774
+080 25257774",Quick Bites,Delivery,7.0,4.0,Mexican
+51171,The Big Spoon,Yes,No,Chinatown,3.8 /5,45.0," 6360116461
+ 9819246944",Casual Dining,Dine-out,1.0,2.0,American
+22321,Vyanjan,Yes,No,Lower Manhattan,3.9/5,203.0, 9916937446,Quick Bites,Delivery,7.0,2.0,American
+23392,Coffee Cafe,No,No,Midtown,,0.0, 9739452211,Quick Bites,Dine-out,1.0,1.0,Mexican
+16666,New Punjabi Pure Veg Restaurant,Yes,No,East Village,3.5/5,10.0, 9663357948,Quick Bites,Delivery,1.0,1.0,American
+29330,Dhuaan,No,No,Tribeca,4.3 /5,138.0, 7406434444,Cafe,Cafes,5.0,2.0,Snacks
+33676,Smally's Resto Cafe,Yes,Yes,Tribeca,,1705.0," 7406772442
+ 7406772332",Cafe,Desserts,7.0,5.0,Snacks
+30002,Ammus Hot N Cool,Yes,No,Lower Manhattan,3.4 /5,84.0, 7829389148,Quick Bites,Delivery,1.0,5.0,American
+19774,Daniyal's,Yes,No,Lower Manhattan,3.1/5,42.0, 8197567419,Quick Bites,Delivery,1.0,4.0,American
+37404,Ayush Reddy Tiffins & Fast Food Center,No,No,Lower Manhattan,,0.0, 7893037059,Quick Bites,Dine-out,1.0,3.0,Mexican
+34033,Beijing Bites,Yes,Yes,Tribeca,4.0 /5,864.0,"080 42246688
+080 42246588",Casual Dining,Dine-out,7.0,2.0,Chinese
+20672,B2D Indori Perk,No,No,Lower Manhattan,,0.0, 9691652001,Quick Bites,Delivery,1.0,1.0,American
+23755,Biriyani Angadi,No,No,Lower Manhattan,3.2/5,7.0, 9663266639,Quick Bites,Dine-out,1.0,1.0,Italian
+20713,Sri Venkateswara Andra Mess,No,No,Lower Manhattan,,0.0, 9886913332,Quick Bites,Delivery,1.0,1.0,Mexican
+8255,Checkered Bar - MGM Mark,No,No,Chinatown,3.6/5,19.0," 9164752268, 080 41985556",Lounge,Drinks & nightlife,1.0,3.0,American
+31162,Cafe Coffee Day,Yes,No,Tribeca,2.9 /5,70.0, 9916038673,Cafe,Dine-out,1.0,1.0,Snacks
+34719,Hammered,No,No,East Village,4.3 /5,430.0,080 45128705,Bar,Drinks & nightlife,7.0,4.0,American
+32226,Mudpipe Cafe,Yes,Yes,Lower Manhattan,4.5 /5,1879.0, 9631220007,Cafe,Cafes,7.0,3.0,Snacks
+30431,Deepam Tiffins,No,No,Lower Manhattan,,0.0," 7003050054,  9748122867",Quick Bites,Delivery,1.0,3.0,Mexican
+3461,Empire Restaurant,Yes,No,Chelsea,4.4 /5,5060.0,080 40414141,Casual Dining,Dine-out,,4.0,American
+9846,Donne Biriyani Mane,No,No,Midtown,,0.0, 9901365544,Quick Bites,Delivery,1.0,2.0,Italian
+22420,Khan's Burger,Yes,No,Lower Manhattan,3.0/5,11.0," 9902261142, 080 42121142",Quick Bites,Delivery,,2.0,Italian
+2519,Starbucks,No,No,Chelsea,4.1/5,108.0,,Cafe,Cafes,1.0,2.0,Snacks
+6893,Delight food,Yes,No,Staten and Ellis Islands,NEW,0.0, 7624863271,Quick Bites,Delivery,1.0,2.0,American
+1906,Mango Greens,No,Yes,Midtown,3.9/5,48.0," 9880863789, 080 26851030",Casual Dining,Desserts,1.0,3.0,American
+22922,It's My Meal Food Service,No,No,East Village,,0.0, 9845972713,Delivery,Delivery,,2.0,American
+9595,Momo Hut,Yes,No,Tribeca,4.0/5,684.0," 9901617606,  6360809299",Quick Bites,Delivery,7.0,3.0,Chinese
+11485,Turquoise,No,No,Midtown,2.8/5,56.0,080 42456060,Lounge,Drinks & nightlife,1.0,1.0,American
+33235,late100,No,No,Lower Manhattan,,0.0," 9035674578,  9901067717",Delivery,Delivery,1.0,2.0,American
+8718,The little Kitchen,Yes,No,Midtown,,4.0, 9113076319,Quick Bites,Delivery,1.0,2.0,Chinese
+51464,Starter House,Yes,No,Chinatown,3.6 /5,23.0, 8550875745,Quick Bites,Dine-out,1.0,2.0,Chinese
+11264,Bismillah Hotel,No,No,Chelsea,,0.0," 9845440448,  9900977887",Quick Bites,Dine-out,1.0,3.0,Italian
+51259,Fusion Panda,Yes,No,Chinatown,3.5 /5,11.0, 9920049922,Casual Dining,Dine-out,1.0,2.0,American
+31853,Anvar Bhai's,Yes,No,Lower Manhattan,,0.0,00 09632780768,Quick Bites,Dine-out,1.0,1.0,American
+29374,Burgers And More,Yes,No,Tribeca,3.7 /5,21.0, 8861999234,Quick Bites,,1.0,5.0,Italian
+50923,Bloomsbury's Global Kitchen & Bakehouse,Yes,Yes,Chinatown,4.5 /5,756.0,"080 46411455
+080 46411466",Cafe,Desserts,7.0,8.0,American
+7546,Mother's Food,Yes,No,Chinatown,3.9/5,62.0,080 49652531,Quick Bites,Delivery,2.0,2.0,American
+42356,Vietnamese Kitchen,Yes,Yes,Greenwich,4.1 /5,535.0,"080 41566008
+080 41566009",Casual Dining,Delivery,7.0,4.0,Chinese
+947,Paratha Junction,Yes,No,Lower Manhattan,2.9/5,172.0, 9535673059,Quick Bites,Delivery,2.0,2.0,American
+9738,24/7 Food Service,Yes,No,Midtown,2.9/5,7.0," 7795513215,  9945052352",Takeaway,Delivery,1.0,3.0,Mexican
+1451,The Paratha Stories,Yes,No,Midtown,NEW,0.0, 9655233303,Quick Bites,Delivery,1.0,1.0,American
+16555,Brimstone Cafe,Yes,Yes,East Village,4.0/5,390.0," 9844504477,  9743754477",Cafe,Delivery,7.0,4.0,Snacks
+7037,Nizam's Burger House,Yes,No,Staten and Ellis Islands,3.9/5,756.0," 8123403000,  9036008357",Casual Dining,Delivery,5.0,2.0,American
+8032,The Farm House Bar n Grill,No,No,Chinatown,3.7/5,34.0," 9980121279,  9900240646",Casual Dining,Dine-out,1.0,2.0,American
+31090,Kobe Sizzlers,No,Yes,Tribeca,4.1 /5,1795.0,"080 49589249,  9901299432",Casual Dining,Dine-out,7.0,4.0,American
+40836,Patel Eat,No,No,Staten and Ellis Islands,,0.0, 7817058062,Takeaway,Delivery,1.0,2.0,American
+16563,Sufra Restaurant,Yes,Yes,East Village,,111.0," 8049713233,  9111113936",Casual Dining,Delivery,5.0,2.0,American
+21758,Mango Greens,No,Yes,Midtown,3.9/5,48.0," 9880863789, 080 26851030",Casual Dining,Buffet,1.0,3.0,American
+8634,Fresh Pressery Cafe,Yes,No,Tribeca,4.1/5,137.0,080 41724989,Cafe,Delivery,7.0,5.0,Snacks
+8921,Sree Krishna Kafe,Yes,No,Tribeca,4.2/5,969.0,"080 41104345,  8197156368",Quick Bites,Delivery,7.0,1.0,Mexican
+27749,Hungry Stone,Yes,No,Tribeca,,0.0, 9886014624,Takeaway,Delivery,1.0,4.0,American
+3060,Upahara Johnson,Yes,No,Chelsea,3.0/5,25.0,080 26541133,Quick Bites,Delivery,1.0,3.0,Mexican
+36278,SM Fast Food,No,No,Lower Manhattan,,0.0, 9008434180,Quick Bites,Delivery,1.0,2.0,Mexican
+30682,Adithya Family Restaurant,No,No,Lower Manhattan,3.7 /5,27.0, 9845284661,Quick Bites,Delivery,1.0,1.0,Mexican
+10637,Healthy Parathawala,Yes,No,Lower Manhattan,NEW,0.0, 8095555240,Quick Bites,Dine-out,1.0,1.0,American
+1069,Stories,Yes,Yes,Midtown,,2166.0,080 49653116,Pub,Delivery,,4.0,American
+36252,Karnataka Biriyani Centre,No,No,Chelsea,,0.0," 9902593411
+ 8147118457",Quick Bites,Delivery,1.0,1.0,Italian
+50368,Whitefield Social,Yes,No,Chinatown,4.1 /5,2773.0," 8049626661
+ 9886252234",Pub,Delivery,7.0,5.0,American
+26549,Truffles,No,No,Tribeca,4.7/5,14690.0,080 49652818,Cafe,Cafes,7.0,4.0,Snacks
+50682,Red Pepper,No,No,Chinatown,,0.0, 8698125325,Quick Bites,Delivery,1.0,4.0,American
+1213,The Coastal Crew by Fujian on 24th,Yes,Yes,Midtown,4.2/5,1028.0,"080 26499444,  8951516623",Casual Dining,Delivery,7.0,5.0,Chinese
+10820,Rayalaseema Abhiruchulu,No,No,Lower Manhattan,NEW,0.0, 9742044034,Quick Bites,Dine-out,1.0,3.0,American
+31706,Darshan Paradise Restaurant,Yes,No,Lower Manhattan,3.6 /5,16.0," 9880414009,  8095414009",Quick Bites,Dine-out,1.0,2.0,American
+1398,Churchill's,Yes,Yes,Midtown,4.1/5,1403.0," 9035475040,  9845033470",Casual Dining,,7.0,2.0,American
+26867,Nuts Over Salads Cafe,Yes,Yes,Tribeca,4.4/5,204.0,"080 25533344,  7019629831",Cafe,Delivery,7.0,2.0,Snacks
+41567,Amber Rush by The Pool,No,No,Staten and Ellis Islands,3.9 /5,151.0," 9164716778
+ 7013179604",Bar,Dine-out,3.0,3.0,American
+9005,Zaitoon Lassi Cafe,Yes,No,Lower Manhattan,,0.0, 9947860182,Quick Bites,Delivery,1.0,4.0,Snacks
+9270,Amjad Bhai's Star Hotel - Home Food Only,No,No,Lower Manhattan,NEW,0.0, 9945367360,Quick Bites,Delivery,1.0,2.0,American
+8445,Burgers And More,Yes,No,Tribeca,NEW,0.0, 8861999234,Quick Bites,Delivery,1.0,5.0,Italian
+34546,Cafe 221B,Yes,Yes,Lower Manhattan,3.7 /5,49.0," 7899022907
+ 9895765188",Cafe,Dine-out,1.0,2.0,Snacks
+34722,Invitation Bar & Restaurant,No,No,Lower Manhattan,3.0 /5,15.0, 9886055270,Bar,Drinks & nightlife,1.0,1.0,American
+18644,Bob's Bar,No,No,Greenwich,4.3/5,424.0, 7899025176,Bar,Dine-out,,2.0,Mexican
+22599,Suji's Kitchen,No,No,Midtown,,0.0, 7899975264,Quick Bites,Delivery,1.0,2.0,Mexican
+17572,Brik Oven,No,No,Greenwich,NEW,0.0,080 42042111,Cafe,Cafes,3.0,3.0,Snacks
+6752,Kava Kitchen & Bar - Fairfield by Marriott,No,No,Chinatown,3.9/5,69.0,080 68141414,Casual Dining,Buffet,,5.0,American
+1471,Mudpipe Cafe,Yes,Yes,Midtown,3.9/5,727.0, 9448056565,Cafe,Delivery,7.0,3.0,Snacks
+8286,Naati Manae,Yes,Yes,Tribeca,3.9/5,484.0,"080 41116661, 080 41136661",Casual Dining,Buffet,7.0,4.0,American
+9342,Healthy Parathawala,Yes,No,Lower Manhattan,NEW,0.0, 8095555240,Quick Bites,Delivery,1.0,1.0,American
+9281,LIT Gastro Pub,Yes,Yes,Chelsea,3.8/5,202.0, 9739380630,Pub,Delivery,7.0,4.0,Chinese
+2589,Namma Banashankari Donne Burger,Yes,No,Midtown,4.0/5,94.0, 8123292275,Quick Bites,Delivery,1.0,2.0,Italian
+17026,90's,No,No,East Village,NEW,0.0, 8668516470,Quick Bites,Dine-out,1.0,1.0,American
+50546,Fusion Panda,Yes,No,Chinatown,3.5 /5,11.0, 9920049922,Casual Dining,Delivery,1.0,2.0,American
+29008,Aroma Fine Dine,Yes,Yes,East Village,4.0 /5,126.0," 9513888632,  9945845334",Casual Dining,Dine-out,4.0,4.0,American
+2295,Spice Code,No,Yes,Midtown,3.9/5,165.0," 9513699007,  9513699006",Casual Dining,Dine-out,7.0,4.0,Mexican
+16815,Zee5 Loft,Yes,No,East Village,4.4/5,792.0,080 49652919,Cafe,Delivery,7.0,4.0,Snacks
+22792,Healthy Parathawala,Yes,No,Lower Manhattan,NEW,0.0, 8095555240,Quick Bites,Delivery,1.0,1.0,American
+41634,New Milestone Restaurant,Yes,No,Staten and Ellis Islands,3.4 /5,6.0," 9071044443
+ 8867711998",Casual Dining,Dine-out,1.0,1.0,American
+34837,Dhuaan,No,No,Tribeca,4.3 /5,148.0, 7406434444,Cafe,Cafes,,2.0,Snacks
+3147,Murali Miltary Hotel,No,No,Chelsea,,0.0, 9019396555,Quick Bites,Delivery,1.0,1.0,Italian
+21082,Golden Oak - La Marvella Sarovar Premiere Hotel,No,Yes,Chelsea,3.9 /5,371.0,080 49653191,Casual Dining,Dine-out,7.0,4.0,American
+40531,Keys Cafe - Keys Hotel,No,No,Chinatown,2.8 /5,161.0,"080 39451000
+ 8884038484",Casual Dining,Buffet,7.0,3.0,Chinese
+50329,Toscano,Yes,Yes,Chinatown,4.2 /5,1038.0," 7619320072
+ 8123430127",Casual Dining,Delivery,7.0,2.0,Italian
+35322,Sri Sapana Perk,Yes,No,Lower Manhattan,,11.0, 7411562150,,Delivery,1.0,1.0,American
+50547,Nandi Mess - Feel Like Mom's,Yes,No,Chinatown,3.7 /5,31.0," 8668176616
+ 9590093434",Quick Bites,Delivery,1.0,1.0,Mexican
+17000,Third Wave Coffee Roasters,Yes,No,East Village,,141.0," 7349791061,  9986625007",Cafe,Dine-out,6.0,2.0,Snacks
+29258,Hammered,No,No,East Village,4.3 /5,416.0,080 45128705,Bar,Drinks & nightlife,7.0,4.0,American
+10606,BTM Ghar ka Khana,No,No,Lower Manhattan,3.7/5,126.0," 9845018962,  9342818067",Quick Bites,Dine-out,4.0,1.0,American
+45898,Andal Mess,Yes,No,Greenwich,3.2 /5,135.0, 9148186353,Mess,Dine-out,5.0,2.0,Mexican
+34934,Bathinda Tandoor,Yes,No,Lower Manhattan,3.9 /5,64.0," 7899987436
+ 7708528198",Quick Bites,Delivery,1.0,1.0,American
+7454,Ganga Foods,Yes,No,Staten and Ellis Islands,3.5/5,17.0, 9513219630,,Delivery,1.0,2.0,Mexican
+21323,Zhang's - Chinese Restaurant,Yes,No,Midtown,4.1 /5,592.0,"080 26595988, 080 26596420",Casual Dining,Dine-out,7.0,2.0,Chinese
+30153,Chatter Platter,Yes,No,Lower Manhattan,3.4 /5,30.0, 8150994830,Quick Bites,Delivery,1.0,4.0,American
+41579,Basmati Bar & Restaurant,Yes,Yes,Staten and Ellis Islands,3.8 /5,, 9108554617,Casual Dining,Dine-out,7.0,4.0,Italian
+45923,J's Cafe,No,No,Greenwich,3.9 /5,155.0, 8904090009,Cafe,Dine-out,7.0,2.0,Snacks
+50814,South Tiffin Corner,No,No,Chinatown,,0.0, 9606594155,Delivery,Delivery,1.0,1.0,Mexican
+14829,Manju's Kitchen,Yes,No,Greenwich,3.3/5,14.0," 6362835588,  6362937794",Quick Bites,Delivery,1.0,1.0,Italian
+16166,New GFC Dum Burger,No,No,East Village,,0.0, 8660737213,Quick Bites,Delivery,1.0,2.0,Italian
+21635,Foodies Club,Yes,No,Lower Manhattan,,5.0, 9035720056,Quick Bites,Dine-out,1.0,5.0,Mexican
+40912,Punjabi Twist,Yes,No,Staten and Ellis Islands,4.2 /5,220.0," 9591325180
+ 9899370250",Quick Bites,Delivery,7.0,1.0,American
+10872,Sultans of Spice,Yes,Yes,Tribeca,4.5/5,3458.0,080 49652770,Casual Dining,Dine-out,7.0,3.0,American
+9487,Khan's Burger,Yes,No,Lower Manhattan,3.0/5,11.0," 9902261142, 080 42121142",Quick Bites,Delivery,1.0,2.0,Italian
+34643, Restaurant,No,No,Lower Manhattan,,0.0,,Quick Bites,Dine-out,1.0,2.0,Mexican
+40518,Brunchilly,No,Yes,Staten and Ellis Islands,4.0 /5,213.0," 9148591792
+ 9148591791",Casual Dining,Buffet,7.0,2.0,American
+23339,Bramhin Tiffins,No,No,Midtown,3.6/5,12.0, 9886497597,Quick Bites,Dine-out,1.0,1.0,Mexican
+17335,SS Food Point,No,No,East Village,,0.0," 9148055554,  9148055553",Quick Bites,Dine-out,1.0,2.0,Mexican
+26518,Urban Spoon Buffet Restaurant,No,Yes,Tribeca,3.5/5,32.0," 9900178610,  9900178608",Casual Dining,Buffet,1.0,2.0,American
+31681,Burger Spot,Yes,No,Lower Manhattan,3.5 /5,, 7406391810,Quick Bites,Dine-out,,2.0,Mexican
+20038,Vinaya Cafe,Yes,No,Midtown,3.7/5,55.0,"080 41233313,  7022281100",Quick Bites,Delivery,2.0,3.0,Mexican
+40789,Prajwal The Restaurant,Yes,No,Staten and Ellis Islands,3.5 /5,47.0," 9535194056
+ 9738057651",Quick Bites,Delivery,2.0,3.0,American
+23695,Anand Donne Biriyani,Yes,No,Chelsea,,46.0, 8892398288,Quick Bites,Dine-out,1.0,1.0,Italian
+31874,Two States,No,No,Lower Manhattan,3.4 /5,5.0, 8618040055,Quick Bites,Dine-out,1.0,4.0,American
+21068,Cafe Cosy,No,Yes,Chelsea,4.2 /5,117.0,080 49653354,Cafe,Dine-out,4.0,4.0,Snacks
+32785,Roundup Cafe,Yes,Yes,Tribeca,4.2 /5,505.0,080 49653438,Cafe,Delivery,7.0,3.0,Snacks
+41855,Red Chillies Restaurant,No,No,Staten and Ellis Islands,2.9 /5,18.0," 7259892403
+ 9341113556",Quick Bites,Dine-out,1.0,2.0,Mexican
+35092,Daniyal's,Yes,No,Lower Manhattan,3.2 /5,42.0, 8197567419,Quick Bites,Delivery,1.0,4.0,American
+8257,Paprica,Yes,No,Staten and Ellis Islands,2.6/5,118.0," 9379978822, 080 30208899",Casual Dining,Drinks & nightlife,5.0,2.0,American
+10548,Heaven 2 Oven,Yes,No,Lower Manhattan,NEW,0.0, 9731142022,Quick Bites,Dine-out,1.0,1.0,Chinese
+44907,PreRit's Food Factory,Yes,No,Greenwich,3.7 /5,74.0," 9620909029
+ 9611817196",Delivery,Delivery,,2.0,American
+36996,Village Donne Burger,Yes,No,Tribeca,3.3 /5,50.0, 9880187342,Quick Bites,Dine-out,1.0,1.0,Italian
+44926,Smally's Resto Cafe,Yes,No,Greenwich,4.1 /5,424.0,"080 48149349
+ 7829066633",Cafe,Delivery,7.0,5.0,Snacks
+28427,Big Wong XL,No,Yes,Tribeca,4.5 /5,685.0, 9902667866,,Dine-out,7.0,4.0,Chinese
+9649,Spice Taj,No,No,Lower Manhattan,,0.0,080 26781887,Quick Bites,Delivery,,2.0,American
+2611,Grazers,Yes,Yes,Chelsea,3.9/5,291.0,080 26650668,Cafe,Delivery,7.0,5.0,Snacks
+22818,The Lounge - Eden Park Restaurants,No,Yes,Chelsea,3.8/5,151.0, 8880845845,Lounge,Delivery,5.0,2.0,American
+6771,Southern Spice,No,Yes,Chinatown,3.0/5,83.0," 9000701982,  9985278880",Casual Dining,Buffet,4.0,1.0,Mexican
+21692,Thindi Mane,No,No,Midtown,3.5 /5,6.0, 9880133308,Quick Bites,Dine-out,1.0,1.0,Mexican
+2572,Paratha Junction,Yes,No,Chelsea,3.2/5,395.0, 7022586895,Quick Bites,Delivery,1.0,2.0,American
+32889,Hang10 Resto N Cafe,Yes,No,Lower Manhattan,3.7 /5,101.0," 7353222277,  7353444477",Cafe,Delivery,5.0,3.0,Snacks
+31169,Grills And Tandoor,Yes,Yes,Tribeca,3.7 /5,110.0," 8910378576, 080 43761888",Casual Dining,Dine-out,7.0,2.0,American
+51231,Nellore Mess & Tiffens,No,No,Chinatown,3.0 /5,17.0, 9739928360,Mess,Dine-out,1.0,2.0,Mexican
+8437,A2B - Adyar Ananda Bhavan,Yes,No,Lower Manhattan,4.2/5,37.0,080 43334321,Takeaway,Delivery,,3.0,Mexican
+22938,Davanagere Benne Nachos,No,No,Chelsea,NEW,0.0, 7411915342,Quick Bites,Delivery,1.0,1.0,Mexican
+21468,S.S Bangali Restaurant,No,No,Lower Manhattan,,0.0, 8553137892,Quick Bites,Dine-out,1.0,2.0,Mexican
+31082,Big Wong XL,No,Yes,Tribeca,4.5 /5,685.0, 9902667866,Casual Dining,Dine-out,7.0,4.0,Chinese
+3798,Light House Cafe,Yes,No,Staten and Ellis Islands,3.7/5,94.0," 9741033890,  9743686830",Cafe,Cafes,1.0,5.0,Snacks
+41844,Prajwal The Restaurant,Yes,No,Staten and Ellis Islands,3.5 /5,47.0," 9535194056
+ 9738057651",Quick Bites,Dine-out,2.0,3.0,American
+20548,Burger Knights,No,No,Midtown,3.6/5,21.0," 9632111158,  9632111162",Delivery,Delivery,1.0,1.0,Italian
+21342,Birinz,Yes,No,Lower Manhattan,,299.0," 8197022223,  9141111222",Casual Dining,Dine-out,7.0,5.0,Italian
+1683,Special Biriyani,Yes,No,Midtown,2.9/5,4.0," 9901622652,  9786000554",Quick Bites,Delivery,1.0,2.0,American
+9154,B2D Indori Perk,No,No,Lower Manhattan,,0.0, 9691652001,Quick Bites,Delivery,1.0,1.0,American
+20518,Totus,Yes,No,Lower Manhattan,NEW,0.0, 7337830757,Quick Bites,Delivery,1.0,1.0,Chinese
+32570,Yummy Pot,Yes,No,East Village,,0.0, 7012891601,Quick Bites,Delivery,1.0,1.0,American
+22617,Impala Burger,No,No,Midtown,3.2/5,4.0," 9141399300,  9738323030",Quick Bites,Delivery,1.0,2.0,Italian
+45124,Panda Foods,Yes,No,Staten and Ellis Islands,3.5 /5,15.0, 9035315438,Quick Bites,Delivery,1.0,2.0,American
+11286,Le Rosa Restaurant,No,No,East Village,3.2/5,4.0," 9206082090,  9961659609",Casual Dining,Dine-out,1.0,3.0,American
+45818,Perk - Estd 1986 Delhi,Yes,Yes,Greenwich,4.4 /5,1526.0,"080 48536713
+ 8884498122",Casual Dining,Dine-out,7.0,3.0,American
+16736,Classic Burger Hut,Yes,No,East Village,3.4/5,10.0, 8660778551,Quick Bites,Delivery,,2.0,Italian
+23326,Peat & Fire,No,No,Midtown,NEW,0.0, 9845065612,Quick Bites,Dine-out,1.0,1.0,American
+29327,Barista,No,No,Tribeca,3.5 /5,66.0,080 41104396,Cafe,Cafes,4.0,1.0,Snacks
+31156,Dhuaan,No,No,Tribeca,4.3 /5,138.0, 7406434444,Cafe,Dine-out,5.0,2.0,Snacks
+35053,Nachos Plaza,Yes,No,Tribeca,3.8 /5,141.0,080 71967784,Quick Bites,Delivery,1.0,4.0,Mexican
+20401,Sri Basaveshwara Rotti Oota,No,No,Chelsea,,0.0, 9972322883,Quick Bites,Delivery,1.0,2.0,Mexican
+11866,Aagaman Veg,Yes,No,Greenwich,4.0/5,558.0,"080 40956662, 080 40926663",Casual Dining,Delivery,7.0,3.0,American
+17829,Urban Tamaasha,Yes,Yes,Greenwich,4.1/5,840.0," 9513951515,  9606082474",Casual Dining,Delivery,7.0,3.0,American
+45005,Aagaman Veg,Yes,No,Greenwich,4.0 /5,560.0,"080 40956662
+080 40926663",Casual Dining,Delivery,7.0,3.0,American
+27761,Kallummakkaya,Yes,No,Lower Manhattan,,0.0, 9605141138,Quick Bites,Delivery,1.0,2.0,Mexican
+20373,Hyderabad Bawarchi,No,No,Chelsea,3.9/5,118.0," 8884979343,  9985900859",Casual Dining,Delivery,6.0,3.0,American
+29203,Dum Burger Hub,Yes,No,Lower Manhattan,3.9 /5,66.0,080 49653144,Quick Bites,Dine-out,2.0,1.0,Italian
+29141,Ambur Biriyani Point,No,No,Lower Manhattan,3.6 /5,26.0, 8792721772,Quick Bites,Dine-out,1.0,1.0,Italian
+41956,Aahar Cafe,Yes,No,Staten and Ellis Islands,,0.0, 9611464113,Quick Bites,Dine-out,1.0,2.0,American
+41863,S2S The Village Kitchen,No,No,Staten and Ellis Islands,,0.0," 8884872034
+ 8008007123",Quick Bites,,1.0,1.0,Mexican
+9665,sCoolMeal,No,No,Lower Manhattan,,0.0, 8971958284,Takeaway,Delivery,1.0,4.0,American
+20244,Hyderabad Biryaani House,Yes,No,Tribeca,4.1/5,1114.0,"080 65754353,  7204344343",Casual Dining,Delivery,7.0,4.0,Italian
+31222,Lets cafe,No,No,Tribeca,3.5 /5,6.0, 9573819444,Quick Bites,Dine-out,1.0,2.0,
+3644,Anda Ka Funda,Yes,No,Chelsea,3.4/5,89.0, 7022727051,Quick Bites,Dine-out,1.0,3.0,American
+36157,Sree Food Paradise,No,No,Lower Manhattan,,0.0, 8951458076,Quick Bites,Delivery,1.0,2.0,American
+22733,DeliBox.in,Yes,No,Lower Manhattan,3.7/5,67.0, 7337889660,Delivery,Delivery,1.0,1.0,Mexican
+17158,Noon's,Yes,No,East Village,,162.0," 9243405888,  8050160888",Quick Bites,Dine-out,3.0,1.0,Italian
+36372,Bullet Burger,Yes,No,Lower Manhattan,3.2 /5,9.0, 7349474748,Takeaway,Delivery,1.0,1.0,Italian
+35991,Johnson Fast Food,Yes,No,Lower Manhattan,3.7 /5,67.0,080 26686112,Quick Bites,Delivery,3.0,3.0,Mexican
+22727,Cable Car,Yes,Yes,Chelsea,4.3/5,1247.0,080 45128610,Casual Dining,Delivery,,2.0,American
+31726,Swad Punjab Da,Yes,No,Lower Manhattan,4.1 /5,133.0, 8360151853,Quick Bites,Dine-out,5.0,1.0,American
+15932,Al-Bek,Yes,No,East Village,3.6/5,133.0,080 43334321,Takeaway,Delivery,7.0,6.0,Italian
+9916,HungerLoft,Yes,No,Lower Manhattan,2.5/5,109.0, 9597450021,Casual Dining,Delivery,1.0,3.0,American
+3094,Cafe Terra,Yes,No,Chelsea,NEW,0.0, 8042111103,Cafe,Delivery,1.0,2.0,Snacks
+21040,Gufha - The President Hotel,Yes,Yes,Chelsea,4.1 /5,1889.0,"080 41808777,  9900265022",Casual Dining,Dine-out,7.0,3.0,American
+16430,The Rasaganga,Yes,No,East Village,3.9/5,163.0, 8197399958,Quick Bites,Delivery,3.0,4.0,Mexican
+17530,Pasta Street,Yes,Yes,Greenwich,4.5/5,1614.0,"080 48504242, 080 48501500",Casual Dining,Buffet,7.0,3.0,Italian
+3603,Ugadi,Yes,No,Chelsea,2.9/5,177.0, 9742231320,Casual Dining,Dine-out,6.0,5.0,American
+2965,Chung's Chinese Corner,Yes,No,Chelsea,3.9/5,,"080 26644700, 080 41211700",Casual Dining,Delivery,7.0,1.0,Chinese
+35423,High n Hungry,Yes,No,Lower Manhattan,2.9 /5,95.0,"040 42150606
+ 9886941212",Delivery,Delivery,2.0,4.0,American
